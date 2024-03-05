@@ -25,7 +25,7 @@ main() {
 
     # grab the counter_data and output
     curl "https://results.lavote.gov/ElectionResults/GetCounterData?electionID=$election_id" |
-      jq ".Data|=sort_by(.Number)" > "$output_directory/counter_data.json"
+      jq ".Data |= map(.Value |= floor) | .Data |= sort_by(.Number)" > "$output_directory/counter_data.json"
 
     # grab the election_data and output
     # curl "https://results.lavote.gov/ElectionResults/GetElectionData?electionID=$election_id" |
