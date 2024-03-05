@@ -28,8 +28,8 @@ main() {
       jq ".Data|=sort_by(.Number)" > "$output_directory/counter_data.json"
 
     # grab the election_data and output
-    curl "https://results.lavote.gov/ElectionResults/GetElectionData?electionID=$election_id" |
-      jq > "$output_directory/election_data.json"
+    # curl "https://results.lavote.gov/ElectionResults/GetElectionData?electionID=$election_id" |
+    #   jq > "$output_directory/election_data.json"
 }
 
 main "$@"
