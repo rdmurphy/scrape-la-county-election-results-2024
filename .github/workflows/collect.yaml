@@ -1,0 +1,31 @@
+name: Collect election results data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/10 * * * *"
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout the repo
+        uses: actions/checkout@v4
+
+      - name: Download and format the data
+        run: ./scripts/collect.sh ./primary 4316
+
+      - name: Get a timestamp
+        run: echo "timestamp=$(date -u +'%Y-%m-%dT%H:%M:%SZ')" >> $GITHUB_ENV
+
+      - name: Commit results.json to GitHub
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Latest results: ${{ env.timestamp }}"
+          file_pattern: "*.json"
+          skip_fetch: true
