@@ -23,14 +23,20 @@ def generate_snapshots():
         if commit_sha == '':
             continue
 
-        process = subprocess.run(
-            ['git', 'show', f'{commit_sha}:primary/results.json'],
-            capture_output=True,
-            text=True,
-        )
+        if commit_sha == 'latest':
+            # use the current file
+            with open('primary/results.json') as infile:
+                output = infile.read()
+        else:
+            process = subprocess.run(
+                ['git', 'show', f'{commit_sha}:primary/results.json'],
+                capture_output=True,
+                text=True,
+            )
+            output = process.stdout
 
         with open(f'primary/results/{date}-{release}.json', 'w') as outfile:
-            outfile.write(process.stdout)
+            outfile.write(output)
 
     # counter_data.json
     with open('primary/snapshots.csv') as f:
@@ -44,14 +50,20 @@ def generate_snapshots():
         if commit_sha == '':
             continue
 
-        process = subprocess.run(
-            ['git', 'show', f'{commit_sha}:primary/counter_data.json'],
-            capture_output=True,
-            text=True,
-        )
+        if commit_sha == 'latest':
+            # use the current file
+            with open('primary/counter_data.json') as infile:
+                output = infile.read()
+        else:
+            process = subprocess.run(
+                ['git', 'show', f'{commit_sha}:primary/counter_data.json'],
+                capture_output=True,
+                text=True,
+            )
+            output = process.stdout
 
         with open(f'primary/counter_data/{date}-{release}.json', 'w') as outfile:
-            outfile.write(process.stdout)
+            outfile.write(output)
 
 
 if __name__ == '__main__':
