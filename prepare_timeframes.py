@@ -21,8 +21,8 @@ def prepare():
     dates = []
 
     for file in counter_data_files:
-        date = file.stem
-        dates.append(date)
+        [date, revision] = file.stem.rsplit('-', 1)
+        dates.append([date, int(revision)])
 
         with open(file) as infile:
             counter_data = load(infile)['Data']
