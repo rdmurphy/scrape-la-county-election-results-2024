@@ -20,6 +20,12 @@ jobs:
       - name: Download and format the data
         run: ./scripts/collect.sh ./primary 4316
 
+      - name: Run generate_snapshots.py
+        run: python3 generate_snapshots.py
+
+      - name: Run prepare_timeframes.py
+        run: python3 prepare_timeframes.py
+
       - name: Get a timestamp
         run: echo "timestamp=$(date -u +'%Y-%m-%dT%H:%M:%SZ')" >> $GITHUB_ENV
 
