@@ -2,6 +2,8 @@
 
 A repo that runs a GitHub Action to retrieve and store the L.A. County's 2024 election results feeds from [lavote.gov](https://results.lavote.gov).
 
+See this data put to use in [an Observable notebook](https://observablehq.com/@rdmurphy/l-a-county-2024-primary-election-results-trends)!
+
 ## What's here
 
 ### March 5 Primary
