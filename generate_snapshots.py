@@ -17,18 +17,19 @@ def generate_snapshots():
     
     for row in rows:
         date = row['date']
+        release = row['release']
         commit_sha = row['results_commit_sha']
 
         if commit_sha == '':
             continue
 
         process = subprocess.run(
-            ['git', 'show', f'{commit_sha}:results.json'],
+            ['git', 'show', f'{commit_sha}:primary/results.json'],
             capture_output=True,
             text=True,
         )
 
-        with open(f'primary/results/{date}.json', 'w') as outfile:
+        with open(f'primary/results/{date}-{release}.json', 'w') as outfile:
             outfile.write(process.stdout)
 
     # counter_data.json
@@ -37,18 +38,19 @@ def generate_snapshots():
     
     for row in rows:
         date = row['date']
+        release = row['release']
         commit_sha = row['counter_commit_sha']
 
         if commit_sha == '':
             continue
 
         process = subprocess.run(
-            ['git', 'show', f'{commit_sha}:counter_data.json'],
+            ['git', 'show', f'{commit_sha}:primary/counter_data.json'],
             capture_output=True,
             text=True,
         )
 
-        with open(f'primary/counter_data/{date}.json', 'w') as outfile:
+        with open(f'primary/counter_data/{date}-{release}.json', 'w') as outfile:
             outfile.write(process.stdout)
 
 

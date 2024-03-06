@@ -1,5 +1,5 @@
 date,release,results_commit_sha,counter_commit_sha,notes
-2024-03-05,1,,,Early mail-in ballots
+2024-03-05,1,e55d4e151268309f810541391b8619621102861b,e55d4e151268309f810541391b8619621102861b,Early mail-in ballots
 2024-03-05,2,,,Early in-person ballots
 2024-03-05,3,,,Election day ballots
 2024-03-06,1,,,
