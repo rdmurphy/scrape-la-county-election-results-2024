@@ -12,12 +12,12 @@ def generate_snapshots():
     """
 
     # results.json
-    with open('primary/results_snapshots.csv') as f:
+    with open('primary/snapshots.csv') as f:
         rows = [row for row in DictReader(f)]
     
     for row in rows:
         date = row['date']
-        commit_sha = row['commit_sha']
+        commit_sha = row['results_commit_sha']
 
         if commit_sha == '':
             continue
@@ -32,12 +32,12 @@ def generate_snapshots():
             outfile.write(process.stdout)
 
     # counter_data.json
-    with open('primary/counter_snapshots.csv') as f:
+    with open('primary/snapshots.csv') as f:
         rows = [row for row in DictReader(f)]
     
     for row in rows:
         date = row['date']
-        commit_sha = row['commit_sha']
+        commit_sha = row['counter_commit_sha']
 
         if commit_sha == '':
             continue
