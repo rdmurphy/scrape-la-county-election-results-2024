@@ -1,0 +1,6100 @@
+{
+  "Election": {
+    "ID": 4316,
+    "Date": "2024-03-05T00:00:00-08:00",
+    "Title": "Presidential Primary Election",
+    "ContestGroups": [
+      {
+        "Name": "Board of Supervisors",
+        "Contests": [
+          {
+            "Title": "SUPERVISOR 2ND DISTRICT",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "CLINT D. CARLTON",
+                "Party": "Non Partisan",
+                "Votes": 26040
+              },
+              {
+                "Name": "DAPHNE D. BRADFORD",
+                "Party": "Non Partisan",
+                "Votes": 30359
+              },
+              {
+                "Name": "HOLLY J. MITCHELL",
+                "Party": "Non Partisan",
+                "Votes": 157558
+              },
+              {
+                "Name": "KATRINA WILLIAMS",
+                "Party": "Non Partisan",
+                "Votes": 16118
+              }
+            ]
+          },
+          {
+            "Title": "SUPERVISOR 4TH DISTRICT",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ALEX VILLANUEVA",
+                "Party": "Non Partisan",
+                "Votes": 83953
+              },
+              {
+                "Name": "JANICE HAHN",
+                "Party": "Non Partisan",
+                "Votes": 172729
+              },
+              {
+                "Name": "JOHN M. CRUIKSHANK",
+                "Party": "Non Partisan",
+                "Votes": 42115
+              }
+            ]
+          },
+          {
+            "Title": "SUPERVISOR 5TH DISTRICT",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "CHRIS HOLDEN",
+                "Party": "Non Partisan",
+                "Votes": 76211
+              },
+              {
+                "Name": "KATHRYN BARGER",
+                "Party": "Non Partisan",
+                "Votes": 197593
+              },
+              {
+                "Name": "KONSTANTINE ANTHONY",
+                "Party": "Non Partisan",
+                "Votes": 39642
+              },
+              {
+                "Name": "MARLON MARROQUIN",
+                "Party": "Non Partisan",
+                "Votes": 7741
+              },
+              {
+                "Name": "PERRY GOLDBERG",
+                "Party": "Non Partisan",
+                "Votes": 26457
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Cities",
+        "Contests": [
+          {
+            "Title": "AVALON CITY GENERAL MUNICIPAL ELECTION City Treasurer",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "OLEY OLSEN",
+                "Party": "Non Partisan",
+                "Votes": 559
+              }
+            ]
+          },
+          {
+            "Title": "AVALON CITY GENERAL MUNICIPAL ELECTION Mayor",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ANNI MARSHALL",
+                "Party": "Non Partisan",
+                "Votes": 457
+              },
+              {
+                "Name": "DANIEL FELTS",
+                "Party": "Non Partisan",
+                "Votes": 215
+              }
+            ]
+          },
+          {
+            "Title": "AVALON CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than two",
+            "Candidates": [
+              {
+                "Name": "LISA K. LAVELLE",
+                "Party": "Non Partisan",
+                "Votes": 472
+              },
+              {
+                "Name": "YESENIA SARAHI DE LA ROSA",
+                "Party": "Non Partisan",
+                "Votes": 462
+              }
+            ]
+          },
+          {
+            "Title": "BELL CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than three",
+            "Candidates": [
+              {
+                "Name": "ALI SALEH",
+                "Party": "Non Partisan",
+                "Votes": 1333
+              },
+              {
+                "Name": "ELIZABETH \"BETTY\" DE LA TORRE",
+                "Party": "Non Partisan",
+                "Votes": 491
+              },
+              {
+                "Name": "FRANCIS FLORES",
+                "Party": "Non Partisan",
+                "Votes": 997
+              },
+              {
+                "Name": "LIZZETTE COLIN",
+                "Party": "Non Partisan",
+                "Votes": 600
+              },
+              {
+                "Name": "MONICA ARROYO",
+                "Party": "Non Partisan",
+                "Votes": 1500
+              },
+              {
+                "Name": "NESTOR ENRIQUE VALENCIA",
+                "Party": "Non Partisan",
+                "Votes": 885
+              },
+              {
+                "Name": "PABLO SIFUENTES",
+                "Party": "Non Partisan",
+                "Votes": 710
+              },
+              {
+                "Name": "VIOLETA ALVAREZ",
+                "Party": "Non Partisan",
+                "Votes": 812
+              }
+            ]
+          },
+          {
+            "Title": "BELL CITY SPECIAL MUNICIPAL ELECTION - MEASURE I",
+            "Type": "Measure",
+            "AdditionalText": "",
+            "MeasureText": "Shall the measure, entitled City of Bell Transactions and Use Tax Measure, establishing a three-quarter cent per dollar (0.75%) general sales tax, annually providing an estimated $1.5 million in revenue, until ended by voters, with funds being deposited into the City of Bell General Fund for Public Safety (Police and Fire); Youth and Seniors Recreation Programs and Services; and for general government use, be adopted? Supporters: None submitted Opponents: None submitted",
+            "MeasurePassRate": "Majority of votes cast",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "YES",
+                "Party": "Non Partisan",
+                "Votes": 1282
+              },
+              {
+                "Name": "NO",
+                "Party": "Non Partisan",
+                "Votes": 1447
+              }
+            ]
+          },
+          {
+            "Title": "BEVERLY HILLS CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than two",
+            "Candidates": [
+              {
+                "Name": "ALISSA ROSTON",
+                "Party": "Non Partisan",
+                "Votes": 2266
+              },
+              {
+                "Name": "CRAIG CORMAN",
+                "Party": "Non Partisan",
+                "Votes": 3538
+              },
+              {
+                "Name": "HAMID OMRANI",
+                "Party": "Non Partisan",
+                "Votes": 441
+              },
+              {
+                "Name": "MARY WELLS",
+                "Party": "Non Partisan",
+                "Votes": 2897
+              },
+              {
+                "Name": "MYRA DEMETER",
+                "Party": "Non Partisan",
+                "Votes": 1824
+              },
+              {
+                "Name": "NOOSHIN MESHKATY",
+                "Party": "Non Partisan",
+                "Votes": 1146
+              },
+              {
+                "Name": "ROBIN ROWE",
+                "Party": "Non Partisan",
+                "Votes": 243
+              },
+              {
+                "Name": "RUSSELL STUART",
+                "Party": "Non Partisan",
+                "Votes": 1738
+              },
+              {
+                "Name": "SHARON PERSOVSKI",
+                "Party": "Non Partisan",
+                "Votes": 421
+              },
+              {
+                "Name": "TIFFANY DAVIS",
+                "Party": "Non Partisan",
+                "Votes": 406
+              }
+            ]
+          },
+          {
+            "Title": "COMPTON CITY PRIMARY NOMINATING ELECTION City Attorney (Unexpired term ending December 21, 2026)",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ERIC J. PERRODIN",
+                "Party": "Non Partisan",
+                "Votes": 6227
+              }
+            ]
+          },
+          {
+            "Title": "COMPTON CITY PRIMARY NOMINATING ELECTION City Clerk (Unexpired term ending December 21, 2026)",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "LYNN BOONE",
+                "Party": "Non Partisan",
+                "Votes": 2175
+              },
+              {
+                "Name": "SATRA D. ZURITA",
+                "Party": "Non Partisan",
+                "Votes": 2872
+              },
+              {
+                "Name": "VERNELL MCDANIEL",
+                "Party": "Non Partisan",
+                "Votes": 2742
+              }
+            ]
+          },
+          {
+            "Title": "COMPTON CITY PRIMARY NOMINATING ELECTION Member of the City Council, 1st District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "DEIDRE M. DUHART",
+                "Party": "Non Partisan",
+                "Votes": 984
+              },
+              {
+                "Name": "FIDEL MARQUEZ",
+                "Party": "Non Partisan",
+                "Votes": 426
+              },
+              {
+                "Name": "JASPER JACKSON",
+                "Party": "Non Partisan",
+                "Votes": 834
+              }
+            ]
+          },
+          {
+            "Title": "COMPTON CITY PRIMARY NOMINATING ELECTION Member of the City Council, 4th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ALYSIA RIVERS",
+                "Party": "Non Partisan",
+                "Votes": 362
+              },
+              {
+                "Name": "JOEL ESTRADA",
+                "Party": "Non Partisan",
+                "Votes": 566
+              },
+              {
+                "Name": "LILLIE P. DARDEN",
+                "Party": "Non Partisan",
+                "Votes": 707
+              },
+              {
+                "Name": "TERRANCE CUMBY",
+                "Party": "Non Partisan",
+                "Votes": 280
+              }
+            ]
+          },
+          {
+            "Title": "COVINA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 2nd District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "WALTER ALLEN",
+                "Party": "Non Partisan",
+                "Votes": 1285
+              }
+            ]
+          },
+          {
+            "Title": "COVINA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 4th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "PATRICIA CORTEZ",
+                "Party": "Non Partisan",
+                "Votes": 1041
+              },
+              {
+                "Name": "SUSAN ZERMENO",
+                "Party": "Non Partisan",
+                "Votes": 471
+              }
+            ]
+          },
+          {
+            "Title": "GARDENA CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than two",
+            "Candidates": [
+              {
+                "Name": "AIMEE MIDORI YAMADA",
+                "Party": "Non Partisan",
+                "Votes": 2442
+              },
+              {
+                "Name": "ANTHONY DIXON",
+                "Party": "Non Partisan",
+                "Votes": 3257
+              },
+              {
+                "Name": "MARK E. HENDERSON",
+                "Party": "Non Partisan",
+                "Votes": 4580
+              },
+              {
+                "Name": "PAULETTE C. FRANCIS",
+                "Party": "Non Partisan",
+                "Votes": 3786
+              }
+            ]
+          },
+          {
+            "Title": "GLENDALE CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than two",
+            "Candidates": [
+              {
+                "Name": "ANDRE HAGHVERDIAN",
+                "Party": "Non Partisan",
+                "Votes": 2923
+              },
+              {
+                "Name": "ARDY KASSAKHIAN",
+                "Party": "Non Partisan",
+                "Votes": 14137
+              },
+              {
+                "Name": "DENISE MILLER",
+                "Party": "Non Partisan",
+                "Votes": 7947
+              },
+              {
+                "Name": "JAMES CLARKE",
+                "Party": "Non Partisan",
+                "Votes": 7320
+              },
+              {
+                "Name": "KAREN KWAK",
+                "Party": "Non Partisan",
+                "Votes": 9382
+              },
+              {
+                "Name": "VARTAN GHARPETIAN",
+                "Party": "Non Partisan",
+                "Votes": 10209
+              },
+              {
+                "Name": "VREJ AGAJANIAN",
+                "Party": "Non Partisan",
+                "Votes": 9752
+              }
+            ]
+          },
+          {
+            "Title": "GLENDALE CITY SPECIAL MUNICIPAL ELECTION - MEASURE A",
+            "Type": "Measure",
+            "AdditionalText": "",
+            "MeasureText": "Shall City Charter be amended to allow the council to establish by ordinance the standards, procedures, rules or regulations relating to all aspects of the award and performance of contracts, including contracts for the construction of public improvements, such as compensation paid for performance of such work? Supporters: Glendale Mayor Dan Brotman Opponents: None submitted",
+            "MeasurePassRate": "Majority of votes cast",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "YES",
+                "Party": "Non Partisan",
+                "Votes": 20243
+              },
+              {
+                "Name": "NO",
+                "Party": "Non Partisan",
+                "Votes": 12394
+              }
+            ]
+          },
+          {
+            "Title": "HUNTINGTON PARK CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than three",
+            "Candidates": [
+              {
+                "Name": "EDUARDO EDDIE MARTINEZ",
+                "Party": "Non Partisan",
+                "Votes": 1794
+              },
+              {
+                "Name": "ESMERALDA CASTILLO DE LA CRUZ",
+                "Party": "Non Partisan",
+                "Votes": 1691
+              },
+              {
+                "Name": "JONATHAN SANABRIA",
+                "Party": "Non Partisan",
+                "Votes": 1459
+              },
+              {
+                "Name": "STACEY MARTINEZ",
+                "Party": "Non Partisan",
+                "Votes": 1013
+              },
+              {
+                "Name": "VALENTINE PALOS AMEZQUITA",
+                "Party": "Non Partisan",
+                "Votes": 1103
+              },
+              {
+                "Name": "VICENTE VINNY CADENA",
+                "Party": "Non Partisan",
+                "Votes": 1002
+              }
+            ]
+          },
+          {
+            "Title": "HUNTINGTON PARK CITY GENERAL MUNICIPAL ELECTION Member of the City Council (Unexpired term ending June 1, 2024)",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ARTURO FLORES",
+                "Party": "Non Partisan",
+                "Votes": 2909
+              }
+            ]
+          },
+          {
+            "Title": "HUNTINGTON PARK CITY SPECIAL MUNICIPAL ELECTION - MEASURE CC",
+            "Type": "Measure",
+            "AdditionalText": "",
+            "MeasureText": "Term limits for members of the City Council. Shall the ordinance limiting the number of four-year terms served by members of the Huntington Park City Council be limited to four consecutive terms prospectively? The ordinance provides that no person shall serve more than four consecutive terms in city council and any person who has served four terms may reset the four-term cap after abstaining from running in one general municipal Election? Supporters: None submitted Opponents: None submitted",
+            "MeasurePassRate": "Majority of votes cast",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "YES",
+                "Party": "Non Partisan",
+                "Votes": 2780
+              },
+              {
+                "Name": "NO",
+                "Party": "Non Partisan",
+                "Votes": 881
+              }
+            ]
+          },
+          {
+            "Title": "HUNTINGTON PARK CITY SPECIAL MUNICIPAL ELECTION - MEASURE PP",
+            "Type": "Measure",
+            "AdditionalText": "",
+            "MeasureText": "HUNTINGTON PARK STREET PARKING, PUBLIC SAFETY, CLEAN NEIGHBORHOODS IMPROVEMENT MEASURE. To provide Huntington Park residents access to overnight parking, reduce 9-1-1 emergencies response times by preventing parking violations that block streets and make it difficult for ambulances, fire engines, police, paramedics, and other emergency personnel to navigate city streets; improve trash collection and street sweeping services, shall Huntington Park be directed to conduct a citywide study to develop, implement and enforce a parking permit program on public streets to improve residents quality of life? Supporters: None submitted Opponents: None submitted",
+            "MeasurePassRate": "Majority of votes cast",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "YES",
+                "Party": "Non Partisan",
+                "Votes": 2329
+              },
+              {
+                "Name": "NO",
+                "Party": "Non Partisan",
+                "Votes": 1319
+              }
+            ]
+          },
+          {
+            "Title": "LA CAÑADA FLINTRIDGE CITY GENERAL MUNICIPAL ELECTION - MEASURE LCF",
+            "Type": "Measure",
+            "AdditionalText": "",
+            "MeasureText": "LA CAÑADA FLINTRIDGE ESSENTIAL SERVICES MEASURE. Shall the measure, funding City of La Cañada Flintridge services such as increasing neighborhood Sheriff patrols; preparing for and responding to wildfires/natural disasters; repaving and repairing streets/potholes; keeping public spaces safe and clean; maintaining parks and community programs for youth and seniors; and for general government use by establishing a ¾¢ sales tax providing approximately $2,625,000 annually until ended by voters; requiring audits and line item budget disclosures, with all funds used locally, be adopted? Supporters: Steve Del Guercio, Fmr Mayor; Mike Leininger, Chamber; Peggy Stevens, Bus. Owner; Joe Radabaugh, LCUSD Board; Brad Schwartz Opponents: DAVID HAXTON LCF resident, community volunteer & retired deputy attorney general",
+            "MeasurePassRate": "Majority of votes cast",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "YES",
+                "Party": "Non Partisan",
+                "Votes": 3940
+              },
+              {
+                "Name": "NO",
+                "Party": "Non Partisan",
+                "Votes": 2743
+              }
+            ]
+          },
+          {
+            "Title": "LA CAÑADA FLINTRIDGE CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than three",
+            "Candidates": [
+              {
+                "Name": "JEANNE KIM HOBSON",
+                "Party": "Non Partisan",
+                "Votes": 4003
+              },
+              {
+                "Name": "KEITH EICH",
+                "Party": "Non Partisan",
+                "Votes": 3766
+              },
+              {
+                "Name": "QUEMARS AHMED",
+                "Party": "Non Partisan",
+                "Votes": 2003
+              },
+              {
+                "Name": "RICK GUNTER",
+                "Party": "Non Partisan",
+                "Votes": 2819
+              },
+              {
+                "Name": "STEPHANIE FOSSAN",
+                "Party": "Non Partisan",
+                "Votes": 3481
+              }
+            ]
+          },
+          {
+            "Title": "LA MIRADA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 3rd District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ED ENG",
+                "Party": "Non Partisan",
+                "Votes": 1850
+              },
+              {
+                "Name": "JOHN ACCORNERO",
+                "Party": "Non Partisan",
+                "Votes": 287
+              }
+            ]
+          },
+          {
+            "Title": "LAKEWOOD CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 3rd District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ARIEL \"ARI\" PE",
+                "Party": "Non Partisan",
+                "Votes": 1767
+              },
+              {
+                "Name": "JEFF WOOD",
+                "Party": "Non Partisan",
+                "Votes": 2388
+              }
+            ]
+          },
+          {
+            "Title": "LAKEWOOD CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 4th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "DAVID ARELLANO",
+                "Party": "Non Partisan",
+                "Votes": 2559
+              },
+              {
+                "Name": "VICKI L. STUCKEY",
+                "Party": "Non Partisan",
+                "Votes": 1488
+              }
+            ]
+          },
+          {
+            "Title": "LONG BEACH CITY GENERAL MUNICIPAL ELECTION - MEASURE RW",
+            "Type": "Measure",
+            "AdditionalText": "",
+            "MeasureText": "LONG BEACH HOTEL WORKER MINIMUM WAGE INCREASE MEASURE. Shall the measure increasing the minimum wage for qualifying hotel workers from $17.55 per hour to $23.00 per hour on July 1, 2024, gradually increasing annually to $29.50 per hour by July 1, 2028, applying cost of living increases starting July 1, 2029, clarifying \"wages\" and \"service charges\" paid to qualifying hotel workers and authorizing the Council to make future amendments to the City's hotel worker minimum compensation standards, starting June 1, 2029, be adopted? Supporters: Dr. Suely Saro; Naida Tushnet; Gary Hytrek; Rev. Cynthia Hoeger; Amelia Carillo Opponents: Los Angeles County Business Federation; Eastside Voice",
+            "MeasurePassRate": "Majority of votes cast",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "YES",
+                "Party": "Non Partisan",
+                "Votes": 39791
+              },
+              {
+                "Name": "NO",
+                "Party": "Non Partisan",
+                "Votes": 35127
+              }
+            ]
+          },
+          {
+            "Title": "LONG BEACH CITY PRIMARY NOMINATING ELECTION Member of the City Council, 2nd District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "CINDY ALLEN",
+                "Party": "Non Partisan",
+                "Votes": 4574
+              },
+              {
+                "Name": "KETTY CITTERIO",
+                "Party": "Non Partisan",
+                "Votes": 3460
+              },
+              {
+                "Name": "SARA ZAIDI",
+                "Party": "Non Partisan",
+                "Votes": 418
+              }
+            ]
+          },
+          {
+            "Title": "LONG BEACH CITY PRIMARY NOMINATING ELECTION Member of the City Council, 4th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "AMRIT SINGH",
+                "Party": "Non Partisan",
+                "Votes": 572
+              },
+              {
+                "Name": "DARYL SUPERNAW",
+                "Party": "Non Partisan",
+                "Votes": 6466
+              },
+              {
+                "Name": "GERRIE SCHIPSKE",
+                "Party": "Non Partisan",
+                "Votes": 2902
+              },
+              {
+                "Name": "HERLINDA CHICO",
+                "Party": "Non Partisan",
+                "Votes": 3400
+              }
+            ]
+          },
+          {
+            "Title": "LONG BEACH CITY PRIMARY NOMINATING ELECTION Member of the City Council, 6th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "CRISTINO PINTO",
+                "Party": "Non Partisan",
+                "Votes": 767
+              },
+              {
+                "Name": "SUELY SARO",
+                "Party": "Non Partisan",
+                "Votes": 2491
+              }
+            ]
+          },
+          {
+            "Title": "LONG BEACH CITY PRIMARY NOMINATING ELECTION Member of the City Council, 8th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "SHARIFA BATTS",
+                "Party": "Non Partisan",
+                "Votes": 2155
+              },
+              {
+                "Name": "TUNUA THRASH-NTUK",
+                "Party": "Non Partisan",
+                "Votes": 2728
+              }
+            ]
+          },
+          {
+            "Title": "LOS ANGELES CITY MUNICIPAL ELECTION - MEASURE HLA",
+            "Type": "Measure",
+            "AdditionalText": "",
+            "MeasureText": "CITY MOBILITY PLAN STREET IMPROVEMENT MEASURES. INITIATIVE ORDINANCE HLA. Shall an ordinance providing that when the City of Los Angeles makes a qualifying improvement to a City-owned street (e.g., a paving project), the City must also install certain street enhancements described in the City's Mobility Plan network of pedestrian, bicycle, transit, and vehicle routes; and requiring the City to provide publicly accessible information regarding street improvements; be adopted? Supporters: Sierra Club; LA County Labor Fed; LA County Business Fed; Move LA; Streets For All; SEIU Local 721; UNITE HERE 11; TreePeople Opponents: John Russo; Jay Beeber; Peggy Huang; Lauren Matthews",
+            "MeasurePassRate": "Majority of votes cast",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "YES",
+                "Party": "Non Partisan",
+                "Votes": 360878
+              },
+              {
+                "Name": "NO",
+                "Party": "Non Partisan",
+                "Votes": 190395
+              }
+            ]
+          },
+          {
+            "Title": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Member of the City Council, 2nd District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ADRIN NAZARIAN",
+                "Party": "Non Partisan",
+                "Votes": 13983
+              },
+              {
+                "Name": "JILLIAN BURGOS",
+                "Party": "Non Partisan",
+                "Votes": 8410
+              },
+              {
+                "Name": "JON-PAUL BIRD",
+                "Party": "Non Partisan",
+                "Votes": 2667
+              },
+              {
+                "Name": "MANNY GONEZ",
+                "Party": "Non Partisan",
+                "Votes": 4578
+              },
+              {
+                "Name": "MARIN GHANDILYAN",
+                "Party": "Non Partisan",
+                "Votes": 1008
+              },
+              {
+                "Name": "RUDY MELENDEZ",
+                "Party": "Non Partisan",
+                "Votes": 1397
+              },
+              {
+                "Name": "SAM KBUSHYAN",
+                "Party": "Non Partisan",
+                "Votes": 5550
+              }
+            ]
+          },
+          {
+            "Title": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Member of the City Council, 4th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ETHAN WEAVER",
+                "Party": "Non Partisan",
+                "Votes": 24730
+              },
+              {
+                "Name": "LEVON \"LEV\" BARONIAN",
+                "Party": "Non Partisan",
+                "Votes": 6878
+              },
+              {
+                "Name": "NITHYA RAMAN",
+                "Party": "Non Partisan",
+                "Votes": 32430
+              }
+            ]
+          },
+          {
+            "Title": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Member of the City Council, 6th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "CARMENLINA MINASOVA",
+                "Party": "Non Partisan",
+                "Votes": 2046
+              },
+              {
+                "Name": "ELY DE LA CRUZ AYAO",
+                "Party": "Non Partisan",
+                "Votes": 2470
+              },
+              {
+                "Name": "IMELDA PADILLA",
+                "Party": "Non Partisan",
+                "Votes": 16397
+              }
+            ]
+          },
+          {
+            "Title": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Member of the City Council, 8th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "CLIFF SMITH",
+                "Party": "Non Partisan",
+                "Votes": 3589
+              },
+              {
+                "Name": "JAHAN EPPS",
+                "Party": "Non Partisan",
+                "Votes": 1761
+              },
+              {
+                "Name": "MARQUEECE HARRIS-DAWSON",
+                "Party": "Non Partisan",
+                "Votes": 19486
+              }
+            ]
+          },
+          {
+            "Title": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Member of the City Council, 10th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "AURA VÁSQUEZ",
+                "Party": "Non Partisan",
+                "Votes": 4974
+              },
+              {
+                "Name": "EDDIE ANDERSON",
+                "Party": "Non Partisan",
+                "Votes": 6814
+              },
+              {
+                "Name": "GRACE YOO",
+                "Party": "Non Partisan",
+                "Votes": 8228
+              },
+              {
+                "Name": "HEATHER HUTT",
+                "Party": "Non Partisan",
+                "Votes": 13447
+              },
+              {
+                "Name": "REGGIE JONES-SAWYER",
+                "Party": "Non Partisan",
+                "Votes": 2107
+              }
+            ]
+          },
+          {
+            "Title": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Member of the City Council, 12th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "JOHN S. LEE",
+                "Party": "Non Partisan",
+                "Votes": 33479
+              },
+              {
+                "Name": "SERENA OBERSTEIN",
+                "Party": "Non Partisan",
+                "Votes": 20267
+              }
+            ]
+          },
+          {
+            "Title": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Member of the City Council, 14th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "EDUARDO \"LALO\" VARGAS",
+                "Party": "Non Partisan",
+                "Votes": 1627
+              },
+              {
+                "Name": "GENNY GUERRERO",
+                "Party": "Non Partisan",
+                "Votes": 1443
+              },
+              {
+                "Name": "KEVIN DE LEÓN",
+                "Party": "Non Partisan",
+                "Votes": 8188
+              },
+              {
+                "Name": "MIGUEL SANTIAGO",
+                "Party": "Non Partisan",
+                "Votes": 7442
+              },
+              {
+                "Name": "NADINE M. DIAZ",
+                "Party": "Non Partisan",
+                "Votes": 897
+              },
+              {
+                "Name": "TERESA Y. HILLERY",
+                "Party": "Non Partisan",
+                "Votes": 1509
+              },
+              {
+                "Name": "WENDY CARRILLO",
+                "Party": "Non Partisan",
+                "Votes": 5293
+              },
+              {
+                "Name": "YSABEL J. JURADO",
+                "Party": "Non Partisan",
+                "Votes": 8579
+              }
+            ]
+          },
+          {
+            "Title": "MONROVIA CITY GENERAL MUNICIPAL ELECTION City Treasurer (Unexpired term ending July 7, 2026)",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "JANET WALL",
+                "Party": "Non Partisan",
+                "Votes": 7081
+              }
+            ]
+          },
+          {
+            "Title": "MONROVIA CITY GENERAL MUNICIPAL ELECTION Mayor",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "BECKY A. SHEVLIN",
+                "Party": "Non Partisan",
+                "Votes": 5849
+              },
+              {
+                "Name": "LARRY J. SPICER",
+                "Party": "Non Partisan",
+                "Votes": 2813
+              }
+            ]
+          },
+          {
+            "Title": "MONROVIA CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than two",
+            "Candidates": [
+              {
+                "Name": "ANTOINETTE MUSHET",
+                "Party": "Non Partisan",
+                "Votes": 2157
+              },
+              {
+                "Name": "EDWARD BELDEN",
+                "Party": "Non Partisan",
+                "Votes": 3663
+              },
+              {
+                "Name": "JESUS ROJAS",
+                "Party": "Non Partisan",
+                "Votes": 2930
+              },
+              {
+                "Name": "SERGIO JIMENEZ",
+                "Party": "Non Partisan",
+                "Votes": 4559
+              }
+            ]
+          },
+          {
+            "Title": "PARAMOUNT CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than three",
+            "Candidates": [
+              {
+                "Name": "BRENDA OLMOS",
+                "Party": "Non Partisan",
+                "Votes": 2152
+              },
+              {
+                "Name": "CARMEN PATRICIA GOMEZ",
+                "Party": "Non Partisan",
+                "Votes": 858
+              },
+              {
+                "Name": "ISABEL AGUAYO",
+                "Party": "Non Partisan",
+                "Votes": 1596
+              },
+              {
+                "Name": "JOSE DE LEON",
+                "Party": "Non Partisan",
+                "Votes": 792
+              },
+              {
+                "Name": "VILMA CUELLAR STALLINGS",
+                "Party": "Non Partisan",
+                "Votes": 1357
+              },
+              {
+                "Name": "YESENIA MARIA CUARENTA",
+                "Party": "Non Partisan",
+                "Votes": 1135
+              }
+            ]
+          },
+          {
+            "Title": "PASADENA CITY PRIMARY ELECTION Mayor",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ALLEN SHAY",
+                "Party": "Non Partisan",
+                "Votes": 5987
+              },
+              {
+                "Name": "VICTOR M. GORDO",
+                "Party": "Non Partisan",
+                "Votes": 26504
+              }
+            ]
+          },
+          {
+            "Title": "PASADENA CITY PRIMARY ELECTION Member of the City Council, District 1",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "TYRON HAMPTON",
+                "Party": "Non Partisan",
+                "Votes": 3473
+              }
+            ]
+          },
+          {
+            "Title": "PASADENA CITY PRIMARY ELECTION Member of the City Council, District 2",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "FELICIA WILLIAMS",
+                "Party": "Non Partisan",
+                "Votes": 2126
+              },
+              {
+                "Name": "RICK COLE",
+                "Party": "Non Partisan",
+                "Votes": 3164
+              }
+            ]
+          },
+          {
+            "Title": "PASADENA CITY PRIMARY ELECTION Member of the City Council, District 3  (Unexpired term ending December 7, 2026)",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "BRANDON D. LAMAR",
+                "Party": "Non Partisan",
+                "Votes": 1356
+              },
+              {
+                "Name": "JUSTIN JONES",
+                "Party": "Non Partisan",
+                "Votes": 1665
+              }
+            ]
+          },
+          {
+            "Title": "PASADENA CITY PRIMARY ELECTION Member of the City Council, District 4",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "GENE MASUDA",
+                "Party": "Non Partisan",
+                "Votes": 3941
+              },
+              {
+                "Name": "JOHN DOYLE",
+                "Party": "Non Partisan",
+                "Votes": 532
+              },
+              {
+                "Name": "JONATHAN HORTON",
+                "Party": "Non Partisan",
+                "Votes": 1459
+              }
+            ]
+          },
+          {
+            "Title": "PASADENA CITY PRIMARY ELECTION Member of the City Council, District 6",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "STEVE MADISON",
+                "Party": "Non Partisan",
+                "Votes": 5557
+              }
+            ]
+          },
+          {
+            "Title": "PASADENA CITY SPECIAL MUNICIPAL ELECTION - MEASURE R",
+            "Type": "Measure",
+            "AdditionalText": "",
+            "MeasureText": "Shall amendments to the Pasadena City Charter to: 1) make clerical corrections relating to outdated language and citations contained in various sections of the City Charter; and 2) update the accounting method used to calculate the existing voter-approved transfer from the Power Fund to the General Fund, in accordance with Generally Accepted Accounting Principles (GAAP), for general government use such as 911 response, fire, paramedic, public health, street repairs, senior, and homeless services, be adopted? Supporters: Pasadena Mayor Gordo; Former Mayors Bogaard and Tornek; Former City Manager Kurtz; Chamber of Commerce President & CEO Little Opponents: None submitted",
+            "MeasurePassRate": "Majority of votes cast",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "YES",
+                "Party": "Non Partisan",
+                "Votes": 28456
+              },
+              {
+                "Name": "NO",
+                "Party": "Non Partisan",
+                "Votes": 3657
+              }
+            ]
+          },
+          {
+            "Title": "PASADENA CITY SPECIAL MUNICIPAL ELECTION - MEASURE S",
+            "Type": "Measure",
+            "AdditionalText": "",
+            "MeasureText": "Shall amendments to Article X of the Pasadena City Charter to require the City Council to set limits by ordinance for contract, settlement, and claim approvals, be adopted? Supporters: Pasadena Mayor Gordo; Former Mayor Bogaard; Local Business Owner Gale Kohl; Former City Manager Kurtz; Chamber President Little Opponents: None submitted",
+            "MeasurePassRate": "Majority of votes cast",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "YES",
+                "Party": "Non Partisan",
+                "Votes": 27148
+              },
+              {
+                "Name": "NO",
+                "Party": "Non Partisan",
+                "Votes": 4260
+              }
+            ]
+          },
+          {
+            "Title": "PASADENA CITY SPECIAL MUNICIPAL ELECTION - MEASURE T",
+            "Type": "Measure",
+            "AdditionalText": "",
+            "MeasureText": "Shall an amendment to Article X of the Pasadena City Charter include additional contract selection methods, requiring City Council approval, to deliver significant public capital improvement and infrastructure projects efficiently, timely, and within budget for essential municipal services such as police, fire, public works and parks, resulting in less cost to taxpayers, be adopted? Supporters: Pasadena Mayor Gordo; Former Mayors Bogaard and Tornek; Former City Manager Kurtz; Local Resident & Advocate Nina Chomsky Opponents: None submitted",
+            "MeasurePassRate": "Majority of votes cast",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "YES",
+                "Party": "Non Partisan",
+                "Votes": 28252
+              },
+              {
+                "Name": "NO",
+                "Party": "Non Partisan",
+                "Votes": 3371
+              }
+            ]
+          },
+          {
+            "Title": "POMONA CITY PRIMARY MUNICIPAL ELECTION - MEASURE P",
+            "Type": "Measure",
+            "AdditionalText": "",
+            "MeasureText": "POMONA CITY SERVICES FUNDING MEASURE. To maintain City services such as 911 emergency response, police, fire, crime prevention, youth/recreation, library, park and road maintenance, homelessness services, and other City programs, shall the measure keeping the current City Transactions and Use Tax at 0.75% beyond the March 31, 2029 sunset date and until ended by Pomona voters, providing an estimated $16.8 million annually for general government use, subject to public disclosure and oversight, be adopted? Supporters: Nora Garcia, Resident & D3 City Council Member; Tim Sandoval, Resident & Mayor; John Nolte, Resident & D1 City Council Member Opponents: None submitted",
+            "MeasurePassRate": "Majority of votes cast",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "YES",
+                "Party": "Non Partisan",
+                "Votes": 8808
+              },
+              {
+                "Name": "NO",
+                "Party": "Non Partisan",
+                "Votes": 5851
+              }
+            ]
+          },
+          {
+            "Title": "POMONA CITY PRIMARY MUNICIPAL ELECTION - MEASURE X",
+            "Type": "Measure",
+            "AdditionalText": "",
+            "MeasureText": "Shall the measure reducing the rate of the City's Transactions and Use Tax from 0.75% to 0.50%, and extending the term of the Transactions and Use Tax by repealing its March 31, 2029 expiration date/sunset, resulting in an average of $5.8M in reduced revenues annually for general government use until ended by voters, be adopted? Supporters: None submitted Opponents: None submitted",
+            "MeasurePassRate": "Majority of votes cast",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "YES",
+                "Party": "Non Partisan",
+                "Votes": 7689
+              },
+              {
+                "Name": "NO",
+                "Party": "Non Partisan",
+                "Votes": 6350
+              }
+            ]
+          },
+          {
+            "Title": "POMONA CITY PRIMARY NOMINATING ELECTION Mayor",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "FREDDIE RODRIGUEZ",
+                "Party": "Non Partisan",
+                "Votes": 4156
+              },
+              {
+                "Name": "GUSTAVO RAMIREZ",
+                "Party": "Non Partisan",
+                "Votes": 1152
+              },
+              {
+                "Name": "TIM SANDOVAL",
+                "Party": "Non Partisan",
+                "Votes": 7826
+              },
+              {
+                "Name": "VERONICA CABRERA",
+                "Party": "Non Partisan",
+                "Votes": 1710
+              }
+            ]
+          },
+          {
+            "Title": "POMONA CITY PRIMARY NOMINATING ELECTION Member of the City Council, 1st District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "DEBRA MARTIN",
+                "Party": "Non Partisan",
+                "Votes": 945
+              },
+              {
+                "Name": "JOHN MENDOZA",
+                "Party": "Non Partisan",
+                "Votes": 355
+              },
+              {
+                "Name": "JOHN NOLTE",
+                "Party": "Non Partisan",
+                "Votes": 841
+              },
+              {
+                "Name": "LUIS CANO",
+                "Party": "Non Partisan",
+                "Votes": 199
+              }
+            ]
+          },
+          {
+            "Title": "POMONA CITY PRIMARY NOMINATING ELECTION Member of the City Council, 4th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "CHARÁ SWODECK",
+                "Party": "Non Partisan",
+                "Votes": 789
+              },
+              {
+                "Name": "ELIZABETH ONTIVEROS-COLE",
+                "Party": "Non Partisan",
+                "Votes": 957
+              },
+              {
+                "Name": "GUILLERMO GONZALEZ",
+                "Party": "Non Partisan",
+                "Votes": 1003
+              }
+            ]
+          },
+          {
+            "Title": "POMONA CITY PRIMARY NOMINATING ELECTION Member of the City Council, 6th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "GLENDA BARILLAS",
+                "Party": "Non Partisan",
+                "Votes": 895
+              },
+              {
+                "Name": "LORRAINE CANALES",
+                "Party": "Non Partisan",
+                "Votes": 1157
+              },
+              {
+                "Name": "MIRANDA SHEFFIELD",
+                "Party": "Non Partisan",
+                "Votes": 1074
+              }
+            ]
+          },
+          {
+            "Title": "SAN DIMAS CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 1st District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ERIC WEBER",
+                "Party": "Non Partisan",
+                "Votes": 1696
+              },
+              {
+                "Name": "JAMES P. SHIRLEY",
+                "Party": "Non Partisan",
+                "Votes": 771
+              }
+            ]
+          },
+          {
+            "Title": "SAN DIMAS CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 3rd District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "JULIA PANASITI",
+                "Party": "Non Partisan",
+                "Votes": 624
+              },
+              {
+                "Name": "RACHEL BRATAKOS",
+                "Party": "Non Partisan",
+                "Votes": 1305
+              }
+            ]
+          },
+          {
+            "Title": "SAN FERNANDO CITY SPECIAL MUNICIPAL ELECTION Member of the City Council (Unexpired term ending December 3, 2024)",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "SEAN M. RIVAS",
+                "Party": "Non Partisan",
+                "Votes": 727
+              },
+              {
+                "Name": "SYLVIA BALLIN",
+                "Party": "Non Partisan",
+                "Votes": 799
+              },
+              {
+                "Name": "VICTORIA GARCIA",
+                "Party": "Non Partisan",
+                "Votes": 971
+              }
+            ]
+          },
+          {
+            "Title": "TORRANCE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 2nd District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ANDREW LEE",
+                "Party": "Non Partisan",
+                "Votes": 2859
+              },
+              {
+                "Name": "BRIDGET LEWIS",
+                "Party": "Non Partisan",
+                "Votes": 3339
+              }
+            ]
+          },
+          {
+            "Title": "TORRANCE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 4th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "KOUSHA MODANLOU",
+                "Party": "Non Partisan",
+                "Votes": 740
+              },
+              {
+                "Name": "SHARON KALANI",
+                "Party": "Non Partisan",
+                "Votes": 3850
+              }
+            ]
+          },
+          {
+            "Title": "TORRANCE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 6th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "JEREMY GERSON",
+                "Party": "Non Partisan",
+                "Votes": 2038
+              },
+              {
+                "Name": "JOHN \"JACK\" WALSER",
+                "Party": "Non Partisan",
+                "Votes": 1327
+              },
+              {
+                "Name": "TONY YEH",
+                "Party": "Non Partisan",
+                "Votes": 1968
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "District Attorney",
+        "Contests": [
+          {
+            "Title": "DISTRICT ATTORNEY",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "CRAIG J. MITCHELL",
+                "Party": "Non Partisan",
+                "Votes": 44100
+              },
+              {
+                "Name": "DAN KAPELOVITZ",
+                "Party": "Non Partisan",
+                "Votes": 17507
+              },
+              {
+                "Name": "DAVID S. MILTON",
+                "Party": "Non Partisan",
+                "Votes": 62810
+              },
+              {
+                "Name": "DEBRA ARCHULETA",
+                "Party": "Non Partisan",
+                "Votes": 124758
+              },
+              {
+                "Name": "ERIC SIDDALL",
+                "Party": "Non Partisan",
+                "Votes": 82708
+              },
+              {
+                "Name": "GEORGE GASCÓN",
+                "Party": "Non Partisan",
+                "Votes": 369185
+              },
+              {
+                "Name": "JEFF CHEMERINSKY",
+                "Party": "Non Partisan",
+                "Votes": 115701
+              },
+              {
+                "Name": "JOHN MCKINNEY",
+                "Party": "Non Partisan",
+                "Votes": 87557
+              },
+              {
+                "Name": "JONATHAN HATAMI",
+                "Party": "Non Partisan",
+                "Votes": 193969
+              },
+              {
+                "Name": "LLOYD \"BOBCAT\" MASSON",
+                "Party": "Non Partisan",
+                "Votes": 29153
+              },
+              {
+                "Name": "MARIA RAMIREZ",
+                "Party": "Non Partisan",
+                "Votes": 104622
+              },
+              {
+                "Name": "NATHAN HOCHMAN",
+                "Party": "Non Partisan",
+                "Votes": 233890
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Judge Superior Court",
+        "Contests": [
+          {
+            "Title": "JUDGE OF THE SUPERIOR COURT Office No. 12",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "LYNN DIANE OLSON",
+                "Party": "Non Partisan",
+                "Votes": 802256
+              },
+              {
+                "Name": "RHONDA A. HAYMON",
+                "Party": "Non Partisan",
+                "Votes": 449944
+              }
+            ]
+          },
+          {
+            "Title": "JUDGE OF THE SUPERIOR COURT Office No. 39",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "GEORGE A. TURNER JR.",
+                "Party": "Non Partisan",
+                "Votes": 421985
+              },
+              {
+                "Name": "JACOB LEE",
+                "Party": "Non Partisan",
+                "Votes": 349195
+              },
+              {
+                "Name": "RONDA DIXON",
+                "Party": "Non Partisan",
+                "Votes": 146098
+              },
+              {
+                "Name": "STEVE NAPOLITANO",
+                "Party": "Non Partisan",
+                "Votes": 368086
+              }
+            ]
+          },
+          {
+            "Title": "JUDGE OF THE SUPERIOR COURT Office No. 48",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ERICKA J. WILEY",
+                "Party": "Non Partisan",
+                "Votes": 594550
+              },
+              {
+                "Name": "MALIK C. BURROUGHS",
+                "Party": "Non Partisan",
+                "Votes": 112915
+              },
+              {
+                "Name": "RENEE ROSE",
+                "Party": "Non Partisan",
+                "Votes": 548140
+              }
+            ]
+          },
+          {
+            "Title": "JUDGE OF THE SUPERIOR COURT Office No. 93",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "VICTOR AVILA",
+                "Party": "Non Partisan",
+                "Votes": 1010499
+              }
+            ]
+          },
+          {
+            "Title": "JUDGE OF THE SUPERIOR COURT Office No. 97",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "LA SHAE HENDERSON",
+                "Party": "Non Partisan",
+                "Votes": 340047
+              },
+              {
+                "Name": "SAM ABOURCHED",
+                "Party": "Non Partisan",
+                "Votes": 302364
+              },
+              {
+                "Name": "SHARON RANSOM",
+                "Party": "Non Partisan",
+                "Votes": 601439
+              }
+            ]
+          },
+          {
+            "Title": "JUDGE OF THE SUPERIOR COURT Office No. 115",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "CHRISTMAS BROOKENS",
+                "Party": "Non Partisan",
+                "Votes": 640704
+              },
+              {
+                "Name": "KEITH KOYANO",
+                "Party": "Non Partisan",
+                "Votes": 560044
+              }
+            ]
+          },
+          {
+            "Title": "JUDGE OF THE SUPERIOR COURT Office No. 124",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "EMILY THERESA SPEAR",
+                "Party": "Non Partisan",
+                "Votes": 578792
+              },
+              {
+                "Name": "KIMBERLY REPECKA",
+                "Party": "Non Partisan",
+                "Votes": 613361
+              }
+            ]
+          },
+          {
+            "Title": "JUDGE OF THE SUPERIOR COURT Office No. 130",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "CHRISTOPHER A. DARDEN",
+                "Party": "Non Partisan",
+                "Votes": 389173
+              },
+              {
+                "Name": "LESLIE GUTIERREZ",
+                "Party": "Non Partisan",
+                "Votes": 722671
+              },
+              {
+                "Name": "OSMAN M. TAHER",
+                "Party": "Non Partisan",
+                "Votes": 136600
+              }
+            ]
+          },
+          {
+            "Title": "JUDGE OF THE SUPERIOR COURT Office No. 135",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "GEORGIA HUERTA",
+                "Party": "Non Partisan",
+                "Votes": 572705
+              },
+              {
+                "Name": "MOHAMMAD ALI FAKHREDDINE",
+                "Party": "Non Partisan",
+                "Votes": 175629
+              },
+              {
+                "Name": "STEVEN YEE MAC",
+                "Party": "Non Partisan",
+                "Votes": 472084
+              }
+            ]
+          },
+          {
+            "Title": "JUDGE OF THE SUPERIOR COURT Office No. 137",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "DIANA RUTH JAMES",
+                "Party": "Non Partisan",
+                "Votes": 170854
+              },
+              {
+                "Name": "LUZ E. HERRERA",
+                "Party": "Non Partisan",
+                "Votes": 331639
+              },
+              {
+                "Name": "MICHAEL BERG",
+                "Party": "Non Partisan",
+                "Votes": 173460
+              },
+              {
+                "Name": "TRACEY M. BLOUNT",
+                "Party": "Non Partisan",
+                "Votes": 537100
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Member Co Central Comm",
+        "Contests": [
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 40TH ASSEMBLY DISTRICT - DEMOCRATIC",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "A. LYSA SIMON",
+                "Party": "Democratic",
+                "Votes": 7380
+              },
+              {
+                "Name": "ANDRES SANDOVAL",
+                "Party": "Democratic",
+                "Votes": 9889
+              },
+              {
+                "Name": "ANDREW TABAN",
+                "Party": "Democratic",
+                "Votes": 8914
+              },
+              {
+                "Name": "BETTY DOUMAS-TOTO",
+                "Party": "Democratic",
+                "Votes": 11879
+              },
+              {
+                "Name": "CHRISTINE FARABAUGH",
+                "Party": "Democratic",
+                "Votes": 9840
+              },
+              {
+                "Name": "CHRISTINE LAMONICA",
+                "Party": "Democratic",
+                "Votes": 12747
+              },
+              {
+                "Name": "DAVID HYMAN",
+                "Party": "Democratic",
+                "Votes": 12780
+              },
+              {
+                "Name": "ISAAC LIEBERMAN",
+                "Party": "Democratic",
+                "Votes": 11177
+              },
+              {
+                "Name": "JACK KAYAJIAN",
+                "Party": "Democratic",
+                "Votes": 6989
+              },
+              {
+                "Name": "JOSHUA HEATH",
+                "Party": "Democratic",
+                "Votes": 6597
+              },
+              {
+                "Name": "LYNNE PLAMBECK",
+                "Party": "Democratic",
+                "Votes": 11540
+              },
+              {
+                "Name": "MARGARET FINNSTROM",
+                "Party": "Democratic",
+                "Votes": 7520
+              },
+              {
+                "Name": "MELISSA GARCIA MARDOYAN",
+                "Party": "Democratic",
+                "Votes": 13342
+              },
+              {
+                "Name": "MICHELLE ELMER",
+                "Party": "Democratic",
+                "Votes": 11803
+              },
+              {
+                "Name": "MICHELLE FOWLE",
+                "Party": "Democratic",
+                "Votes": 10026
+              },
+              {
+                "Name": "MICHELLE KAMPBELL",
+                "Party": "Democratic",
+                "Votes": 7668
+              },
+              {
+                "Name": "RENAY GRACE RODRIGUEZ",
+                "Party": "Democratic",
+                "Votes": 7921
+              },
+              {
+                "Name": "STACY FORTNER",
+                "Party": "Democratic",
+                "Votes": 12395
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 40TH ASSEMBLY DISTRICT - REPUBLICAN",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "AAKASH AHUJA",
+                "Party": "Republican",
+                "Votes": 11820
+              },
+              {
+                "Name": "DANIEL MALDONADO",
+                "Party": "Republican",
+                "Votes": 13958
+              },
+              {
+                "Name": "DENISE LITE",
+                "Party": "Republican",
+                "Votes": 18912
+              },
+              {
+                "Name": "JOE MESSINA",
+                "Party": "Republican",
+                "Votes": 16385
+              },
+              {
+                "Name": "JUDY LAMPPU",
+                "Party": "Republican",
+                "Votes": 7183
+              },
+              {
+                "Name": "LUCIE VOLOTZKY",
+                "Party": "Republican",
+                "Votes": 14251
+              },
+              {
+                "Name": "MELISSA LUNDIE",
+                "Party": "Republican",
+                "Votes": 16235
+              },
+              {
+                "Name": "NUNE GIPSON",
+                "Party": "Republican",
+                "Votes": 16552
+              },
+              {
+                "Name": "VERONICA HIXSON",
+                "Party": "Republican",
+                "Votes": 13104
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 41ST ASSEMBLY DISTRICT - DEMOCRATIC",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "CHRISTOPHER TORRES",
+                "Party": "Democratic",
+                "Votes": 17001
+              },
+              {
+                "Name": "KAREN K. SUAREZ",
+                "Party": "Democratic",
+                "Votes": 22409
+              },
+              {
+                "Name": "KATHY PATTERSON",
+                "Party": "Democratic",
+                "Votes": 20027
+              },
+              {
+                "Name": "KENNETH ARMSTRONG",
+                "Party": "Democratic",
+                "Votes": 22182
+              },
+              {
+                "Name": "KIM BOWMAN",
+                "Party": "Democratic",
+                "Votes": 23474
+              },
+              {
+                "Name": "PATRICE MARSHALL MCKENZIE",
+                "Party": "Democratic",
+                "Votes": 19874
+              },
+              {
+                "Name": "TODD J. JONES",
+                "Party": "Democratic",
+                "Votes": 22976
+              },
+              {
+                "Name": "VICTOR CASTELLANO",
+                "Party": "Democratic",
+                "Votes": 14158
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 41ST ASSEMBLY DISTRICT - REPUBLICAN",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "BONNIE WALLACE",
+                "Party": "Republican",
+                "Votes": 9730
+              },
+              {
+                "Name": "CALLIE GREGORY",
+                "Party": "Republican",
+                "Votes": 11038
+              },
+              {
+                "Name": "CYNTHIA GABALDON",
+                "Party": "Republican",
+                "Votes": 11794
+              },
+              {
+                "Name": "DEBORAH SCOTT TOUX",
+                "Party": "Republican",
+                "Votes": 10081
+              },
+              {
+                "Name": "JACK C. MERCICA",
+                "Party": "Republican",
+                "Votes": 9980
+              },
+              {
+                "Name": "JACQUELINE MUNOZ",
+                "Party": "Republican",
+                "Votes": 8006
+              },
+              {
+                "Name": "LOIS BRAND BILLINGS",
+                "Party": "Republican",
+                "Votes": 11433
+              },
+              {
+                "Name": "PIERRE SYLLA",
+                "Party": "Republican",
+                "Votes": 6815
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 42ND ASSEMBLY DISTRICT - REPUBLICAN",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "CLIFTON RIO TORRADO VON BUCK",
+                "Party": "Republican",
+                "Votes": 2413
+              },
+              {
+                "Name": "DENIS WEBER",
+                "Party": "Republican",
+                "Votes": 4688
+              },
+              {
+                "Name": "ELIZABETH BARCOHANA",
+                "Party": "Republican",
+                "Votes": 4943
+              },
+              {
+                "Name": "GINGER HYDE",
+                "Party": "Republican",
+                "Votes": 5252
+              },
+              {
+                "Name": "K. \"KEVIN\" HEDVAT",
+                "Party": "Republican",
+                "Votes": 3876
+              },
+              {
+                "Name": "KAREN SIEGEMUND",
+                "Party": "Republican",
+                "Votes": 2423
+              },
+              {
+                "Name": "LEO SAMUEL ZACKY",
+                "Party": "Republican",
+                "Votes": 2973
+              },
+              {
+                "Name": "MARSHALL MULLEN",
+                "Party": "Republican",
+                "Votes": 4002
+              },
+              {
+                "Name": "RICHARD MULLEN",
+                "Party": "Republican",
+                "Votes": 5131
+              },
+              {
+                "Name": "RONNIE BANSBACH",
+                "Party": "Republican",
+                "Votes": 3152
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 43RD ASSEMBLY DISTRICT - DEMOCRATIC",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "AMY SUE FALL",
+                "Party": "Democratic",
+                "Votes": 5878
+              },
+              {
+                "Name": "ANGÉLICA MARÍA DUEÑAS",
+                "Party": "Democratic",
+                "Votes": 10065
+              },
+              {
+                "Name": "ANTHONY ESPINOZA",
+                "Party": "Democratic",
+                "Votes": 4764
+              },
+              {
+                "Name": "CLIFFORD TASNER",
+                "Party": "Democratic",
+                "Votes": 3691
+              },
+              {
+                "Name": "CYNTHIA BECERRA",
+                "Party": "Democratic",
+                "Votes": 8968
+              },
+              {
+                "Name": "DANIEL J. LOPEZ",
+                "Party": "Democratic",
+                "Votes": 6288
+              },
+              {
+                "Name": "JOANA REYES",
+                "Party": "Democratic",
+                "Votes": 7023
+              },
+              {
+                "Name": "JOSE SANDOVAL",
+                "Party": "Democratic",
+                "Votes": 6656
+              },
+              {
+                "Name": "JUAN SOLORIO JR.",
+                "Party": "Democratic",
+                "Votes": 4629
+              },
+              {
+                "Name": "KAREN ALMANZA",
+                "Party": "Democratic",
+                "Votes": 8094
+              },
+              {
+                "Name": "KRISTINA FLORES",
+                "Party": "Democratic",
+                "Votes": 6968
+              },
+              {
+                "Name": "ROBERT C. GONZALES",
+                "Party": "Democratic",
+                "Votes": 11014
+              },
+              {
+                "Name": "SEAN RIVAS",
+                "Party": "Democratic",
+                "Votes": 5468
+              },
+              {
+                "Name": "VERONICA DE LARA",
+                "Party": "Democratic",
+                "Votes": 6902
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 44TH ASSEMBLY DISTRICT - DEMOCRATIC",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "ALTON F. REED",
+                "Party": "Democratic",
+                "Votes": 19167
+              },
+              {
+                "Name": "ANALISA SWAN",
+                "Party": "Democratic",
+                "Votes": 27558
+              },
+              {
+                "Name": "BONNIE SHATUN",
+                "Party": "Democratic",
+                "Votes": 25528
+              },
+              {
+                "Name": "CAROLYN M. HOFF",
+                "Party": "Democratic",
+                "Votes": 31209
+              },
+              {
+                "Name": "JERILYN V. STAPLETON",
+                "Party": "Democratic",
+                "Votes": 25078
+              },
+              {
+                "Name": "JOYCE M. RUBIN",
+                "Party": "Democratic",
+                "Votes": 22801
+              },
+              {
+                "Name": "MANUEL MAGPAPIAN",
+                "Party": "Democratic",
+                "Votes": 7273
+              },
+              {
+                "Name": "NIKKI PARKER MORGAN",
+                "Party": "Democratic",
+                "Votes": 15950
+              },
+              {
+                "Name": "REGEN WILSON",
+                "Party": "Democratic",
+                "Votes": 11144
+              },
+              {
+                "Name": "SHANNA INGALSBEE",
+                "Party": "Democratic",
+                "Votes": 19498
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 44TH ASSEMBLY DISTRICT - REPUBLICAN",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "ALLEN EARL BRANDSTATER",
+                "Party": "Republican",
+                "Votes": 8815
+              },
+              {
+                "Name": "ANTHONY BELL",
+                "Party": "Republican",
+                "Votes": 11120
+              },
+              {
+                "Name": "ARA KACHADOURIAN",
+                "Party": "Republican",
+                "Votes": 9164
+              },
+              {
+                "Name": "J. EMILIO MARTINEZ",
+                "Party": "Republican",
+                "Votes": 6736
+              },
+              {
+                "Name": "JOHN M. MERGUERIAN",
+                "Party": "Republican",
+                "Votes": 7125
+              },
+              {
+                "Name": "LISA CUSACK",
+                "Party": "Republican",
+                "Votes": 11323
+              },
+              {
+                "Name": "LOUIS BARNETT",
+                "Party": "Republican",
+                "Votes": 9421
+              },
+              {
+                "Name": "RUDY MELENDEZ",
+                "Party": "Republican",
+                "Votes": 6310
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 46TH ASSEMBLY DISTRICT - DEMOCRATIC",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "BARRI GIRVAN",
+                "Party": "Democratic",
+                "Votes": 11053
+              },
+              {
+                "Name": "BEN SEINFELD",
+                "Party": "Democratic",
+                "Votes": 12978
+              },
+              {
+                "Name": "CECILE BENDAVID",
+                "Party": "Democratic",
+                "Votes": 14518
+              },
+              {
+                "Name": "CHRIS MANABE",
+                "Party": "Democratic",
+                "Votes": 7122
+              },
+              {
+                "Name": "ELIZABETH BADGER",
+                "Party": "Democratic",
+                "Votes": 18180
+              },
+              {
+                "Name": "JASON SMALL",
+                "Party": "Democratic",
+                "Votes": 7950
+              },
+              {
+                "Name": "JOHN H. KRAFT",
+                "Party": "Democratic",
+                "Votes": 6522
+              },
+              {
+                "Name": "MICHELLE VERNE",
+                "Party": "Democratic",
+                "Votes": 13214
+              },
+              {
+                "Name": "SCOTT ABRAMS",
+                "Party": "Democratic",
+                "Votes": 16399
+              },
+              {
+                "Name": "STEVE BOTT",
+                "Party": "Democratic",
+                "Votes": 5701
+              },
+              {
+                "Name": "STEVEN E. BELHUMEUR",
+                "Party": "Democratic",
+                "Votes": 9966
+              },
+              {
+                "Name": "YESSICA M. MANABE",
+                "Party": "Democratic",
+                "Votes": 11520
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 48TH ASSEMBLY DISTRICT - DEMOCRATIC",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "ALEJANDRA AVILA",
+                "Party": "Democratic",
+                "Votes": 7143
+              },
+              {
+                "Name": "ANDREW C ALEMAN",
+                "Party": "Democratic",
+                "Votes": 9551
+              },
+              {
+                "Name": "CELENIA CALDERON",
+                "Party": "Democratic",
+                "Votes": 9495
+              },
+              {
+                "Name": "DENIS P. RECENDEZ",
+                "Party": "Democratic",
+                "Votes": 8370
+              },
+              {
+                "Name": "ERIK PEÑA",
+                "Party": "Democratic",
+                "Votes": 8873
+              },
+              {
+                "Name": "JOANNA VALENZUELA",
+                "Party": "Democratic",
+                "Votes": 11594
+              },
+              {
+                "Name": "LISA A. JIMENEZ",
+                "Party": "Democratic",
+                "Votes": 11041
+              },
+              {
+                "Name": "PABLO MORALES",
+                "Party": "Democratic",
+                "Votes": 6190
+              },
+              {
+                "Name": "RALPH GALVAN",
+                "Party": "Democratic",
+                "Votes": 10744
+              },
+              {
+                "Name": "RYAN SERRANO",
+                "Party": "Democratic",
+                "Votes": 7000
+              },
+              {
+                "Name": "STEPHEN PRITCHARD",
+                "Party": "Democratic",
+                "Votes": 6408
+              },
+              {
+                "Name": "THERESE GARCIA",
+                "Party": "Democratic",
+                "Votes": 12971
+              },
+              {
+                "Name": "VICTOR D. MALDONADO",
+                "Party": "Democratic",
+                "Votes": 3526
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 49TH ASSEMBLY DISTRICT - DEMOCRATIC",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "ADELE F. ANDRADE-STADLER",
+                "Party": "Democratic",
+                "Votes": 10682
+              },
+              {
+                "Name": "ALTON WANG",
+                "Party": "Democratic",
+                "Votes": 11177
+              },
+              {
+                "Name": "HENRY LO",
+                "Party": "Democratic",
+                "Votes": 10467
+              },
+              {
+                "Name": "JEFF SCHWARTZ",
+                "Party": "Democratic",
+                "Votes": 2088
+              },
+              {
+                "Name": "JEFFERSON CRAIN",
+                "Party": "Democratic",
+                "Votes": 5962
+              },
+              {
+                "Name": "KATIE CHAN",
+                "Party": "Democratic",
+                "Votes": 11931
+              },
+              {
+                "Name": "MELISSA CERVANTES",
+                "Party": "Democratic",
+                "Votes": 9163
+              },
+              {
+                "Name": "MELISSA MIA MICHELSON",
+                "Party": "Democratic",
+                "Votes": 8619
+              },
+              {
+                "Name": "MICHAEL A. SOTO",
+                "Party": "Democratic",
+                "Votes": 7318
+              },
+              {
+                "Name": "PATRICIA HERNANDEZ",
+                "Party": "Democratic",
+                "Votes": 13542
+              },
+              {
+                "Name": "PAUL COLE PADILLA",
+                "Party": "Democratic",
+                "Votes": 8966
+              },
+              {
+                "Name": "SAMANTHA LAU",
+                "Party": "Democratic",
+                "Votes": 10807
+              },
+              {
+                "Name": "THOMAS WONG",
+                "Party": "Democratic",
+                "Votes": 10818
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 51ST ASSEMBLY DISTRICT - DEMOCRATIC",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "AMY WIWUGA",
+                "Party": "Democratic",
+                "Votes": 21494
+              },
+              {
+                "Name": "DANIELLE WILSON",
+                "Party": "Democratic",
+                "Votes": 28924
+              },
+              {
+                "Name": "DEANA IGELSRUD",
+                "Party": "Democratic",
+                "Votes": 23703
+              },
+              {
+                "Name": "EDDIE MENDOZA",
+                "Party": "Democratic",
+                "Votes": 21301
+              },
+              {
+                "Name": "ERICK MATOS",
+                "Party": "Democratic",
+                "Votes": 18039
+              },
+              {
+                "Name": "ISABEL STOREY",
+                "Party": "Democratic",
+                "Votes": 23893
+              },
+              {
+                "Name": "LAURA GILLETTE",
+                "Party": "Democratic",
+                "Votes": 13893
+              },
+              {
+                "Name": "MICHAEL SOLOFF",
+                "Party": "Democratic",
+                "Votes": 25801
+              },
+              {
+                "Name": "REBECCA PYNOOS",
+                "Party": "Democratic",
+                "Votes": 12530
+              },
+              {
+                "Name": "SHOSHANA BAUM",
+                "Party": "Democratic",
+                "Votes": 18010
+              },
+              {
+                "Name": "SUSAN SHEU",
+                "Party": "Democratic",
+                "Votes": 29411
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 51ST ASSEMBLY DISTRICT - REPUBLICAN",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "ASHLEY PARRANT STILES",
+                "Party": "Republican",
+                "Votes": 4514
+              },
+              {
+                "Name": "EILEEN FRASER",
+                "Party": "Republican",
+                "Votes": 5007
+              },
+              {
+                "Name": "GRANT WALLENSKY",
+                "Party": "Republican",
+                "Votes": 4048
+              },
+              {
+                "Name": "JAMES HILARY SEBELSKI",
+                "Party": "Republican",
+                "Votes": 4429
+              },
+              {
+                "Name": "JAMES MONTE",
+                "Party": "Republican",
+                "Votes": 4004
+              },
+              {
+                "Name": "NAYEREH KHANKHANIAN",
+                "Party": "Republican",
+                "Votes": 3084
+              },
+              {
+                "Name": "SCOTT SNAPP",
+                "Party": "Republican",
+                "Votes": 4553
+              },
+              {
+                "Name": "SHIVA BAGHERI",
+                "Party": "Republican",
+                "Votes": 5131
+              },
+              {
+                "Name": "STEPHAN HOHIL",
+                "Party": "Republican",
+                "Votes": 6112
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 52ND ASSEMBLY DISTRICT - DEMOCRATIC",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "ADRIAN VAZQUEZ",
+                "Party": "Democratic",
+                "Votes": 10625
+              },
+              {
+                "Name": "ANDIE LOPEZ",
+                "Party": "Democratic",
+                "Votes": 10540
+              },
+              {
+                "Name": "CARMELLIA MUNGUIA",
+                "Party": "Democratic",
+                "Votes": 3784
+              },
+              {
+                "Name": "CONRADO TERRAZASCROSS",
+                "Party": "Democratic",
+                "Votes": 5606
+              },
+              {
+                "Name": "DANIEL S. ANDALON",
+                "Party": "Democratic",
+                "Votes": 4099
+              },
+              {
+                "Name": "DIANA VARGAS AVELICA",
+                "Party": "Democratic",
+                "Votes": 5828
+              },
+              {
+                "Name": "JEANINE ROHN",
+                "Party": "Democratic",
+                "Votes": 13268
+              },
+              {
+                "Name": "JESSICA CRAVEN",
+                "Party": "Democratic",
+                "Votes": 22353
+              },
+              {
+                "Name": "KATHY  KENSINGER",
+                "Party": "Democratic",
+                "Votes": 4479
+              },
+              {
+                "Name": "KOREEN CEA",
+                "Party": "Democratic",
+                "Votes": 14434
+              },
+              {
+                "Name": "LUIS LOPEZ",
+                "Party": "Democratic",
+                "Votes": 20058
+              },
+              {
+                "Name": "MARY ROSE ORTEGA",
+                "Party": "Democratic",
+                "Votes": 7621
+              },
+              {
+                "Name": "MIA LIVAS PORTER",
+                "Party": "Democratic",
+                "Votes": 23244
+              },
+              {
+                "Name": "MICHAEL CONTRERAS",
+                "Party": "Democratic",
+                "Votes": 8991
+              },
+              {
+                "Name": "NICOLAS GARDNER",
+                "Party": "Democratic",
+                "Votes": 19762
+              },
+              {
+                "Name": "NILZA SERRANO",
+                "Party": "Democratic",
+                "Votes": 8105
+              },
+              {
+                "Name": "PAUL NEUMAN",
+                "Party": "Democratic",
+                "Votes": 5717
+              },
+              {
+                "Name": "RENEE NAHUM",
+                "Party": "Democratic",
+                "Votes": 5586
+              },
+              {
+                "Name": "ROCIO RIVAS",
+                "Party": "Democratic",
+                "Votes": 17781
+              },
+              {
+                "Name": "THERESA MONTAÑO",
+                "Party": "Democratic",
+                "Votes": 8420
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 53RD ASSEMBLY DISTRICT - DEMOCRATIC",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "ANABEL LUNA",
+                "Party": "Democratic",
+                "Votes": 2765
+              },
+              {
+                "Name": "ANDREA MORENO",
+                "Party": "Democratic",
+                "Votes": 2270
+              },
+              {
+                "Name": "ANDREA ZAMUDIO",
+                "Party": "Democratic",
+                "Votes": 1962
+              },
+              {
+                "Name": "CHRISTOPHER BOWEN",
+                "Party": "Democratic",
+                "Votes": 3088
+              },
+              {
+                "Name": "EDGAR RODRIGUEZ",
+                "Party": "Democratic",
+                "Votes": 2792
+              },
+              {
+                "Name": "EVA THIEL-MAIZ",
+                "Party": "Democratic",
+                "Votes": 2120
+              },
+              {
+                "Name": "JACKY ELIZALDE",
+                "Party": "Democratic",
+                "Votes": 2288
+              },
+              {
+                "Name": "JOHN MENDOZA",
+                "Party": "Democratic",
+                "Votes": 1528
+              },
+              {
+                "Name": "MARISOL GUERRA",
+                "Party": "Democratic",
+                "Votes": 4002
+              },
+              {
+                "Name": "RICARDO MACIAS",
+                "Party": "Democratic",
+                "Votes": 1561
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 54TH ASSEMBLY DISTRICT - DEMOCRATIC",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "CARLOS MONTES",
+                "Party": "Democratic",
+                "Votes": 7605
+              },
+              {
+                "Name": "DANIKA MENDOZA",
+                "Party": "Democratic",
+                "Votes": 4303
+              },
+              {
+                "Name": "EDITH GONZALEZ",
+                "Party": "Democratic",
+                "Votes": 9294
+              },
+              {
+                "Name": "ERICK MARTELL",
+                "Party": "Democratic",
+                "Votes": 4059
+              },
+              {
+                "Name": "ESTHER \"BESTER\" LIM",
+                "Party": "Democratic",
+                "Votes": 7054
+              },
+              {
+                "Name": "ESTHER MARES",
+                "Party": "Democratic",
+                "Votes": 4303
+              },
+              {
+                "Name": "HANNAH CHO",
+                "Party": "Democratic",
+                "Votes": 6438
+              },
+              {
+                "Name": "JASON GARDEA STINNETT",
+                "Party": "Democratic",
+                "Votes": 4125
+              },
+              {
+                "Name": "JOHN YI",
+                "Party": "Democratic",
+                "Votes": 11303
+              },
+              {
+                "Name": "JOHNCITO \"JOHN\" PERAZA",
+                "Party": "Democratic",
+                "Votes": 3601
+              },
+              {
+                "Name": "SAMUEL SUKATON",
+                "Party": "Democratic",
+                "Votes": 5129
+              },
+              {
+                "Name": "SARA HERNANDEZ",
+                "Party": "Democratic",
+                "Votes": 9666
+              },
+              {
+                "Name": "STEVE KANG",
+                "Party": "Democratic",
+                "Votes": 5932
+              },
+              {
+                "Name": "VANESSA STINNETT",
+                "Party": "Democratic",
+                "Votes": 5668
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 55TH ASSEMBLY DISTRICT - DEMOCRATIC",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "AARON ORDOWER",
+                "Party": "Democratic",
+                "Votes": 15070
+              },
+              {
+                "Name": "DARREL MENTHE",
+                "Party": "Democratic",
+                "Votes": 5404
+              },
+              {
+                "Name": "FREDDY PUZA",
+                "Party": "Democratic",
+                "Votes": 11417
+              },
+              {
+                "Name": "ILISSA GOLD",
+                "Party": "Democratic",
+                "Votes": 18717
+              },
+              {
+                "Name": "JASMYNE CANNICK",
+                "Party": "Democratic",
+                "Votes": 22720
+              },
+              {
+                "Name": "JEFF SCHWARTZ",
+                "Party": "Democratic",
+                "Votes": 14675
+              },
+              {
+                "Name": "JIMMIE WOODS-GRAY",
+                "Party": "Democratic",
+                "Votes": 19521
+              },
+              {
+                "Name": "JOE ROSE",
+                "Party": "Democratic",
+                "Votes": 5075
+              },
+              {
+                "Name": "LEAH PRESSMAN",
+                "Party": "Democratic",
+                "Votes": 14440
+              },
+              {
+                "Name": "LINDSAY CARLSON",
+                "Party": "Democratic",
+                "Votes": 13663
+              },
+              {
+                "Name": "MARY GRACE BARRIOS",
+                "Party": "Democratic",
+                "Votes": 15993
+              },
+              {
+                "Name": "PAMELA R. SPARROW",
+                "Party": "Democratic",
+                "Votes": 20883
+              },
+              {
+                "Name": "ROSA M. RUSSELL",
+                "Party": "Democratic",
+                "Votes": 18152
+              },
+              {
+                "Name": "SARA ROOS",
+                "Party": "Democratic",
+                "Votes": 16394
+              },
+              {
+                "Name": "VILMA DAWSON",
+                "Party": "Democratic",
+                "Votes": 21570
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 55TH ASSEMBLY DISTRICT - REPUBLICAN",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "BALTAZAR FEDALIZO",
+                "Party": "Republican",
+                "Votes": 2391
+              },
+              {
+                "Name": "BENJAMIN FENTON",
+                "Party": "Republican",
+                "Votes": 2905
+              },
+              {
+                "Name": "FERN RAY",
+                "Party": "Republican",
+                "Votes": 2609
+              },
+              {
+                "Name": "FRANK DEMARTINI",
+                "Party": "Republican",
+                "Votes": 1938
+              },
+              {
+                "Name": "JOHNNIE MORGAN",
+                "Party": "Republican",
+                "Votes": 2036
+              },
+              {
+                "Name": "KEITH CASCIO",
+                "Party": "Republican",
+                "Votes": 4122
+              },
+              {
+                "Name": "MARCIA JACOBS",
+                "Party": "Republican",
+                "Votes": 3186
+              },
+              {
+                "Name": "NARAYAN JAIRAJ",
+                "Party": "Republican",
+                "Votes": 2170
+              },
+              {
+                "Name": "ROY ATHERTON",
+                "Party": "Republican",
+                "Votes": 3037
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 56TH ASSEMBLY DISTRICT - DEMOCRATIC",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "ANDREA LOYOLA",
+                "Party": "Democratic",
+                "Votes": 4748
+              },
+              {
+                "Name": "CHRISTIAN ISRAELIAN",
+                "Party": "Democratic",
+                "Votes": 4716
+              },
+              {
+                "Name": "CINDY CHEN",
+                "Party": "Democratic",
+                "Votes": 7947
+              },
+              {
+                "Name": "CLARK LEE",
+                "Party": "Democratic",
+                "Votes": 7217
+              },
+              {
+                "Name": "CYNTHIA PATIÑO TALMICH",
+                "Party": "Democratic",
+                "Votes": 5799
+              },
+              {
+                "Name": "GINO KWOK",
+                "Party": "Democratic",
+                "Votes": 4420
+              },
+              {
+                "Name": "IRIS L. MANN",
+                "Party": "Democratic",
+                "Votes": 6132
+              },
+              {
+                "Name": "JAIME VEGA",
+                "Party": "Democratic",
+                "Votes": 5080
+              },
+              {
+                "Name": "KAREN CHANG",
+                "Party": "Democratic",
+                "Votes": 3899
+              },
+              {
+                "Name": "KEVIN T. HAYAKAWA",
+                "Party": "Democratic",
+                "Votes": 9929
+              },
+              {
+                "Name": "MIREYA GUTIERREZ",
+                "Party": "Democratic",
+                "Votes": 9948
+              },
+              {
+                "Name": "OSCAR VALLADARES",
+                "Party": "Democratic",
+                "Votes": 9054
+              },
+              {
+                "Name": "PEGGYE A. JACKSON",
+                "Party": "Democratic",
+                "Votes": 6760
+              },
+              {
+                "Name": "RACHEL VALENZUELA KIRK",
+                "Party": "Democratic",
+                "Votes": 5481
+              },
+              {
+                "Name": "RICARDO MARTINEZ",
+                "Party": "Democratic",
+                "Votes": 7506
+              },
+              {
+                "Name": "ROSAELVA LOMELI",
+                "Party": "Democratic",
+                "Votes": 7712
+              },
+              {
+                "Name": "STEPHANIE TERRAZAS",
+                "Party": "Democratic",
+                "Votes": 11778
+              },
+              {
+                "Name": "VANESSA TYSON",
+                "Party": "Democratic",
+                "Votes": 6733
+              },
+              {
+                "Name": "YARISMA ROCHA",
+                "Party": "Democratic",
+                "Votes": 3179
+              },
+              {
+                "Name": "ZENAIDA HUERTA",
+                "Party": "Democratic",
+                "Votes": 14021
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 56TH ASSEMBLY DISTRICT - REPUBLICAN",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "ARTHUR PAUL REVUELTAS",
+                "Party": "Republican",
+                "Votes": 6284
+              },
+              {
+                "Name": "ED PREER",
+                "Party": "Republican",
+                "Votes": 4831
+              },
+              {
+                "Name": "EMILY LARES",
+                "Party": "Republican",
+                "Votes": 9636
+              },
+              {
+                "Name": "GERALDINE WONG-KLEINPELL",
+                "Party": "Republican",
+                "Votes": 7802
+              },
+              {
+                "Name": "GLENN J. SHEPPARD",
+                "Party": "Republican",
+                "Votes": 7223
+              },
+              {
+                "Name": "MONICA Y. MARQUEZ",
+                "Party": "Republican",
+                "Votes": 3849
+              },
+              {
+                "Name": "NATASHA SERRANO",
+                "Party": "Republican",
+                "Votes": 6787
+              },
+              {
+                "Name": "PATRICIA KOTZE-RAMOS",
+                "Party": "Republican",
+                "Votes": 5932
+              },
+              {
+                "Name": "PAUL L. RAMIREZ",
+                "Party": "Republican",
+                "Votes": 8828
+              },
+              {
+                "Name": "PHYLLIS ROKUS",
+                "Party": "Republican",
+                "Votes": 4897
+              },
+              {
+                "Name": "SYLVIA GRANADOS SOUTHERLAND",
+                "Party": "Republican",
+                "Votes": 6144
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 57TH ASSEMBLY DISTRICT - DEMOCRATIC",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "ALBERTO FLORES",
+                "Party": "Democratic",
+                "Votes": 3102
+              },
+              {
+                "Name": "ALONDRA LOPEZ",
+                "Party": "Democratic",
+                "Votes": 7729
+              },
+              {
+                "Name": "ANGELA BAKER",
+                "Party": "Democratic",
+                "Votes": 7260
+              },
+              {
+                "Name": "JULIO ESPERIAS",
+                "Party": "Democratic",
+                "Votes": 4065
+              },
+              {
+                "Name": "KENNIA LIZET ESCARENO NAVA",
+                "Party": "Democratic",
+                "Votes": 5669
+              },
+              {
+                "Name": "MARCO FLORES",
+                "Party": "Democratic",
+                "Votes": 5260
+              },
+              {
+                "Name": "MARIA HARO",
+                "Party": "Democratic",
+                "Votes": 5949
+              },
+              {
+                "Name": "MICHELE YVONNE REED",
+                "Party": "Democratic",
+                "Votes": 6331
+              },
+              {
+                "Name": "PEDRO FLORES",
+                "Party": "Democratic",
+                "Votes": 2743
+              },
+              {
+                "Name": "WENDY RUIZ",
+                "Party": "Democratic",
+                "Votes": 6110
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 62ND ASSEMBLY DISTRICT - DEMOCRATIC",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "ANDRES RAMOS",
+                "Party": "Democratic",
+                "Votes": 8781
+              },
+              {
+                "Name": "ARTURO FLORES",
+                "Party": "Democratic",
+                "Votes": 10618
+              },
+              {
+                "Name": "DELIA VICTORIA ACEDO",
+                "Party": "Democratic",
+                "Votes": 12391
+              },
+              {
+                "Name": "FRANBERT CALDERON",
+                "Party": "Democratic",
+                "Votes": 8388
+              },
+              {
+                "Name": "JOSE UGARTE",
+                "Party": "Democratic",
+                "Votes": 9076
+              },
+              {
+                "Name": "JUAN MUÑOZ-GUEVARA",
+                "Party": "Democratic",
+                "Votes": 9020
+              },
+              {
+                "Name": "MARY L. ZAVALA",
+                "Party": "Democratic",
+                "Votes": 10593
+              },
+              {
+                "Name": "MAURINA CINTRON",
+                "Party": "Democratic",
+                "Votes": 9051
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 64TH ASSEMBLY DISTRICT - DEMOCRATIC",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "ANTONIO CHAPA",
+                "Party": "Democratic",
+                "Votes": 6516
+              },
+              {
+                "Name": "ELIZABETH ALCANTAR",
+                "Party": "Democratic",
+                "Votes": 11791
+              },
+              {
+                "Name": "EVELYN NUÑO",
+                "Party": "Democratic",
+                "Votes": 7655
+              },
+              {
+                "Name": "FIDENCIO GALLARDO",
+                "Party": "Democratic",
+                "Votes": 9435
+              },
+              {
+                "Name": "FRANCIS CARBAJAL",
+                "Party": "Democratic",
+                "Votes": 5089
+              },
+              {
+                "Name": "GARY MENDEZ",
+                "Party": "Democratic",
+                "Votes": 4244
+              },
+              {
+                "Name": "IVAN SULIC",
+                "Party": "Democratic",
+                "Votes": 2945
+              },
+              {
+                "Name": "JAIME LOPEZ",
+                "Party": "Democratic",
+                "Votes": 6186
+              },
+              {
+                "Name": "JORGEL CHAVEZ",
+                "Party": "Democratic",
+                "Votes": 6184
+              },
+              {
+                "Name": "MARTHA CAMACHO RODRIGUEZ",
+                "Party": "Democratic",
+                "Votes": 7329
+              },
+              {
+                "Name": "MICHAEL A. RAMOS",
+                "Party": "Democratic",
+                "Votes": 1247
+              },
+              {
+                "Name": "MIGUEL DE LA ROSA",
+                "Party": "Democratic",
+                "Votes": 4504
+              },
+              {
+                "Name": "PAULA MEJIA",
+                "Party": "Democratic",
+                "Votes": 7321
+              },
+              {
+                "Name": "ROBERTO A. ALVAREZ",
+                "Party": "Democratic",
+                "Votes": 6906
+              },
+              {
+                "Name": "STEVEN K. ALARI",
+                "Party": "Democratic",
+                "Votes": 4959
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 65TH ASSEMBLY DISTRICT - DEMOCRATIC",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "ALEJANDRA RODRIGUEZ",
+                "Party": "Democratic",
+                "Votes": 4346
+              },
+              {
+                "Name": "AYANNA DAVIS",
+                "Party": "Democratic",
+                "Votes": 8441
+              },
+              {
+                "Name": "BARBARA JEAN CALHOUN",
+                "Party": "Democratic",
+                "Votes": 12423
+              },
+              {
+                "Name": "CARRIE SCOVILLE",
+                "Party": "Democratic",
+                "Votes": 7512
+              },
+              {
+                "Name": "CRYSTAL LA TOYA FAIRLEY",
+                "Party": "Democratic",
+                "Votes": 7422
+              },
+              {
+                "Name": "EMMA SHARIF",
+                "Party": "Democratic",
+                "Votes": 11358
+              },
+              {
+                "Name": "FARAZ RIZVI",
+                "Party": "Democratic",
+                "Votes": 3422
+              },
+              {
+                "Name": "FATIMA IQBAL-ZUBAIR",
+                "Party": "Democratic",
+                "Votes": 6752
+              },
+              {
+                "Name": "IRENE HUERTA",
+                "Party": "Democratic",
+                "Votes": 13750
+              },
+              {
+                "Name": "JANA ABULABAN",
+                "Party": "Democratic",
+                "Votes": 4880
+              },
+              {
+                "Name": "JAWANE HILTON",
+                "Party": "Democratic",
+                "Votes": 11300
+              },
+              {
+                "Name": "JENNIFER FLORES",
+                "Party": "Democratic",
+                "Votes": 5804
+              },
+              {
+                "Name": "LETICIA VASQUEZ WILSON",
+                "Party": "Democratic",
+                "Votes": 6620
+              },
+              {
+                "Name": "MICKEY CHAVEZ",
+                "Party": "Democratic",
+                "Votes": 6528
+              },
+              {
+                "Name": "SERGIO CARRILLO",
+                "Party": "Democratic",
+                "Votes": 7395
+              },
+              {
+                "Name": "TIFFANIE NOELLE SMITH",
+                "Party": "Democratic",
+                "Votes": 7465
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 66TH ASSEMBLY DISTRICT - DEMOCRATIC",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "BOBBI BUESCHER",
+                "Party": "Democratic",
+                "Votes": 15860
+              },
+              {
+                "Name": "JACOB HAIK",
+                "Party": "Democratic",
+                "Votes": 16841
+              },
+              {
+                "Name": "JANE AFFONSO",
+                "Party": "Democratic",
+                "Votes": 17230
+              },
+              {
+                "Name": "MARGIE HOYT",
+                "Party": "Democratic",
+                "Votes": 14953
+              },
+              {
+                "Name": "NICHELLE HENDERSON",
+                "Party": "Democratic",
+                "Votes": 22315
+              },
+              {
+                "Name": "PAUL SEO",
+                "Party": "Democratic",
+                "Votes": 17051
+              },
+              {
+                "Name": "SAMUEL LIU",
+                "Party": "Democratic",
+                "Votes": 16639
+              },
+              {
+                "Name": "SHANNON R. ROSS",
+                "Party": "Democratic",
+                "Votes": 16920
+              },
+              {
+                "Name": "SHARON MAE KING",
+                "Party": "Democratic",
+                "Votes": 7734
+              },
+              {
+                "Name": "SUSAN BROOKS",
+                "Party": "Democratic",
+                "Votes": 14407
+              },
+              {
+                "Name": "WADE MARTIN KYLE",
+                "Party": "Democratic",
+                "Votes": 13126
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 66TH ASSEMBLY DISTRICT - REPUBLICAN",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "DERRICK R. GATES",
+                "Party": "Republican",
+                "Votes": 20265
+              },
+              {
+                "Name": "FRANK SCOTTO",
+                "Party": "Republican",
+                "Votes": 18369
+              },
+              {
+                "Name": "HARRY J. WARD",
+                "Party": "Republican",
+                "Votes": 14335
+              },
+              {
+                "Name": "JANICE WEBB",
+                "Party": "Republican",
+                "Votes": 13334
+              },
+              {
+                "Name": "MARTHA A. LOGAN",
+                "Party": "Republican",
+                "Votes": 12341
+              },
+              {
+                "Name": "PETER MICHEL",
+                "Party": "Republican",
+                "Votes": 9075
+              },
+              {
+                "Name": "TOM BREWER",
+                "Party": "Republican",
+                "Votes": 14919
+              },
+              {
+                "Name": "TRENT BERNARD LARSON",
+                "Party": "Republican",
+                "Votes": 14934
+              },
+              {
+                "Name": "WILLIAM \"SCOTT\" CARTER",
+                "Party": "Republican",
+                "Votes": 11748
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER, COUNTY CENTRAL COMMITTEE, 69TH ASSEMBLY DISTRICT - DEMOCRATIC",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "Vote for no more than seven",
+            "Candidates": [
+              {
+                "Name": "ALENE BROWN HARRIS",
+                "Party": "Democratic",
+                "Votes": 12766
+              },
+              {
+                "Name": "APRIL MARIE O'CONNOR",
+                "Party": "Democratic",
+                "Votes": 11217
+              },
+              {
+                "Name": "CHRISTOPHER DUVALI",
+                "Party": "Democratic",
+                "Votes": 3177
+              },
+              {
+                "Name": "CLAYTON HEARD",
+                "Party": "Democratic",
+                "Votes": 6278
+              },
+              {
+                "Name": "DAN L. VALDEZ",
+                "Party": "Democratic",
+                "Votes": 7358
+              },
+              {
+                "Name": "DENISE L. QUINN-ALLEN",
+                "Party": "Democratic",
+                "Votes": 3655
+              },
+              {
+                "Name": "JANET D. FOSTER",
+                "Party": "Democratic",
+                "Votes": 13809
+              },
+              {
+                "Name": "JANETTE JOHNSON",
+                "Party": "Democratic",
+                "Votes": 8088
+              },
+              {
+                "Name": "JANICE SCHAEFER",
+                "Party": "Democratic",
+                "Votes": 12361
+              },
+              {
+                "Name": "JIM DEAR",
+                "Party": "Democratic",
+                "Votes": 10260
+              },
+              {
+                "Name": "JOSEPH LUIS PIÑON",
+                "Party": "Democratic",
+                "Votes": 8817
+              },
+              {
+                "Name": "MONETTE GAVINO",
+                "Party": "Democratic",
+                "Votes": 14424
+              },
+              {
+                "Name": "MÒNICA RATLIFF",
+                "Party": "Democratic",
+                "Votes": 9772
+              },
+              {
+                "Name": "NAIDA TUSHNET",
+                "Party": "Democratic",
+                "Votes": 15324
+              },
+              {
+                "Name": "PAUL BARRAGAN MONGE",
+                "Party": "Democratic",
+                "Votes": 7446
+              },
+              {
+                "Name": "RICARDO PULIDO",
+                "Party": "Democratic",
+                "Votes": 9143
+              },
+              {
+                "Name": "TINA KEELY",
+                "Party": "Democratic",
+                "Votes": 4317
+              },
+              {
+                "Name": "UDUAK-JOE NTUK",
+                "Party": "Democratic",
+                "Votes": 7642
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Member of the Assembly",
+        "Contests": [
+          {
+            "Title": "MEMBER OF THE STATE ASSEMBLY, 34th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "RICARDO ORTEGA",
+                "Party": "Democratic",
+                "Votes": 9839
+              },
+              {
+                "Name": "TOM LACKEY",
+                "Party": "Republican",
+                "Votes": 19715
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER OF THE STATE ASSEMBLY, 39th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "JUAN CARRILLO VENTURA",
+                "Party": "Democratic",
+                "Votes": 13911
+              },
+              {
+                "Name": "PAUL ANDRE MARSH",
+                "Party": "Republican",
+                "Votes": 11043
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER OF THE STATE ASSEMBLY, 40th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "PATRICK LEE GIPSON",
+                "Party": "Republican",
+                "Votes": 54262
+              },
+              {
+                "Name": "PILAR SCHIAVO",
+                "Party": "Democratic",
+                "Votes": 54799
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER OF THE STATE ASSEMBLY, 41st District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "JED LEANO",
+                "Party": "Democratic",
+                "Votes": 15664
+              },
+              {
+                "Name": "JOHN HARABEDIAN",
+                "Party": "Democratic",
+                "Votes": 29445
+              },
+              {
+                "Name": "MICHELLE DEL ROSARIO MARTINEZ",
+                "Party": "Republican",
+                "Votes": 29850
+              },
+              {
+                "Name": "PHLUNTÉ RIDDLE",
+                "Party": "Democratic",
+                "Votes": 17209
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER OF THE STATE ASSEMBLY, 42nd District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "JACQUI IRWIN",
+                "Party": "Democratic",
+                "Votes": 28116
+              },
+              {
+                "Name": "TED NORDBLUM",
+                "Party": "Republican",
+                "Votes": 16826
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER OF THE STATE ASSEMBLY, 43rd District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "CARMENLINA MINASOVA",
+                "Party": "Non Partisan",
+                "Votes": 2029
+              },
+              {
+                "Name": "CELESTE RODRIGUEZ",
+                "Party": "Democratic",
+                "Votes": 20397
+              },
+              {
+                "Name": "FELICIA L. NOVICK",
+                "Party": "Republican",
+                "Votes": 3418
+              },
+              {
+                "Name": "SAUL HURTADO",
+                "Party": "Democratic",
+                "Votes": 2010
+              },
+              {
+                "Name": "VICTORIA GARCIA",
+                "Party": "Republican",
+                "Votes": 11020
+              },
+              {
+                "Name": "WALTER GARCIA",
+                "Party": "Democratic",
+                "Votes": 8042
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER OF THE STATE ASSEMBLY, 44th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ADAM PRYOR",
+                "Party": "Democratic",
+                "Votes": 1557
+              },
+              {
+                "Name": "ADAM SUMMER",
+                "Party": "Non Partisan",
+                "Votes": 2220
+              },
+              {
+                "Name": "CARMENITA HELLIGAR",
+                "Party": "Democratic",
+                "Votes": 6149
+              },
+              {
+                "Name": "ED HAN",
+                "Party": "Democratic",
+                "Votes": 17545
+              },
+              {
+                "Name": "ELEN ASATRYAN",
+                "Party": "Democratic",
+                "Votes": 14645
+              },
+              {
+                "Name": "NICK SCHULTZ",
+                "Party": "Democratic",
+                "Votes": 31038
+              },
+              {
+                "Name": "STEVE PIERSON",
+                "Party": "Democratic",
+                "Votes": 8494
+              },
+              {
+                "Name": "TONY RODRIGUEZ",
+                "Party": "Republican",
+                "Votes": 28177
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER OF THE STATE ASSEMBLY, 46th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "JESSE GABRIEL",
+                "Party": "Democratic",
+                "Votes": 49725
+              },
+              {
+                "Name": "TRACEY SCHROEDER",
+                "Party": "Republican",
+                "Votes": 26005
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER OF THE STATE ASSEMBLY, 48th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "BLANCA RUBIO",
+                "Party": "Democratic",
+                "Votes": 27390
+              },
+              {
+                "Name": "BRIAN CALDERÓN TABATABAI",
+                "Party": "Democratic",
+                "Votes": 12680
+              },
+              {
+                "Name": "DAN T. TRAN",
+                "Party": "Republican",
+                "Votes": 26146
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER OF THE STATE ASSEMBLY, 49th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "LONG \"DAVID\" LIU",
+                "Party": "Republican",
+                "Votes": 23603
+              },
+              {
+                "Name": "MIKE FONG",
+                "Party": "Democratic",
+                "Votes": 42036
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER OF THE STATE ASSEMBLY, 51st District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "RICK CHAVEZ ZBUR",
+                "Party": "Democratic",
+                "Votes": 76306
+              },
+              {
+                "Name": "SHIVA BAGHERI",
+                "Party": "Republican",
+                "Votes": 10530
+              },
+              {
+                "Name": "STEPHAN HOHIL",
+                "Party": "Republican",
+                "Votes": 10637
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER OF THE STATE ASSEMBLY, 52nd District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ANTHONY LIBERTINO FANARA",
+                "Party": "Democratic",
+                "Votes": 989
+              },
+              {
+                "Name": "ARI RUIZ",
+                "Party": "Democratic",
+                "Votes": 5806
+              },
+              {
+                "Name": "CARLOS J. LEÓN",
+                "Party": "Democratic",
+                "Votes": 2608
+              },
+              {
+                "Name": "DAVID GIRÓN",
+                "Party": "Democratic",
+                "Votes": 9139
+              },
+              {
+                "Name": "FRANKY CARRILLO",
+                "Party": "Democratic",
+                "Votes": 20484
+              },
+              {
+                "Name": "GENESIS CORONADO",
+                "Party": "Democratic",
+                "Votes": 2573
+              },
+              {
+                "Name": "JESSICA CALOZA",
+                "Party": "Democratic",
+                "Votes": 23297
+              },
+              {
+                "Name": "SHANNEL PITTMAN",
+                "Party": "Green",
+                "Votes": 1156
+              },
+              {
+                "Name": "SOFIA G. QUINONES",
+                "Party": "Democratic",
+                "Votes": 2072
+              },
+              {
+                "Name": "STEPHEN SILLS",
+                "Party": "Republican",
+                "Votes": 10041
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER OF THE STATE ASSEMBLY, 53rd District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "CARLOS GOYTIA",
+                "Party": "Democratic",
+                "Votes": 1406
+              },
+              {
+                "Name": "JAVIER HERNANDEZ",
+                "Party": "Democratic",
+                "Votes": 2435
+              },
+              {
+                "Name": "MICHELLE RODRIGUEZ",
+                "Party": "Democratic",
+                "Votes": 3431
+              },
+              {
+                "Name": "NICK WILSON",
+                "Party": "Republican",
+                "Votes": 4670
+              },
+              {
+                "Name": "ROBERT S. TORRES",
+                "Party": "Democratic",
+                "Votes": 3028
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER OF THE STATE ASSEMBLY, 54th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ELAINE ALANIZ",
+                "Party": "Republican",
+                "Votes": 8766
+              },
+              {
+                "Name": "JOHN K. YI",
+                "Party": "Democratic",
+                "Votes": 14880
+              },
+              {
+                "Name": "MARK GONZALEZ",
+                "Party": "Democratic",
+                "Votes": 19516
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER OF THE STATE ASSEMBLY, 55th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ISAAC G. BRYAN",
+                "Party": "Democratic",
+                "Votes": 74788
+              },
+              {
+                "Name": "KEITH G. CASCIO",
+                "Party": "Republican",
+                "Votes": 14360
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER OF THE STATE ASSEMBLY, 56th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "JESSICA MARTINEZ",
+                "Party": "Republican",
+                "Votes": 21622
+              },
+              {
+                "Name": "LISA CALDERON",
+                "Party": "Democratic",
+                "Votes": 37854
+              },
+              {
+                "Name": "NATASHA SERRANO",
+                "Party": "Republican",
+                "Votes": 7728
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER OF THE STATE ASSEMBLY, 57th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "DULCE VASQUEZ",
+                "Party": "Democratic",
+                "Votes": 3611
+              },
+              {
+                "Name": "EFREN MARTINEZ",
+                "Party": "Democratic",
+                "Votes": 8831
+              },
+              {
+                "Name": "GREG AKILI",
+                "Party": "Democratic",
+                "Votes": 3068
+              },
+              {
+                "Name": "SADE ELHAWARY",
+                "Party": "Democratic",
+                "Votes": 8400
+              },
+              {
+                "Name": "TARA PERRY",
+                "Party": "Democratic",
+                "Votes": 3061
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER OF THE STATE ASSEMBLY, 61st District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ALFONSO HERNANDEZ",
+                "Party": "Republican",
+                "Votes": 13424
+              },
+              {
+                "Name": "TINA SIMONE MCKINNOR",
+                "Party": "Democratic",
+                "Votes": 52050
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER OF THE STATE ASSEMBLY, 62nd District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "JOSE LUIS SOLACHE",
+                "Party": "Democratic",
+                "Votes": 18987
+              },
+              {
+                "Name": "MARIA ESTRADA",
+                "Party": "Democratic",
+                "Votes": 11061
+              },
+              {
+                "Name": "PAUL JONES",
+                "Party": "Republican",
+                "Votes": 15747
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER OF THE STATE ASSEMBLY, 64th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "BLANCA PACHECO",
+                "Party": "Democratic",
+                "Votes": 30973
+              },
+              {
+                "Name": "RAUL ORTIZ JR.",
+                "Party": "Republican",
+                "Votes": 20635
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER OF THE STATE ASSEMBLY, 65th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "MIKE GIPSON",
+                "Party": "Democratic",
+                "Votes": 38544
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER OF THE STATE ASSEMBLY, 66th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "AL MURATSUCHI",
+                "Party": "Democratic",
+                "Votes": 67624
+              },
+              {
+                "Name": "GEORGE BARKS",
+                "Party": "Republican",
+                "Votes": 46761
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER OF THE STATE ASSEMBLY, 67th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ELIZABETH \"BETH\" CULVER",
+                "Party": "Republican",
+                "Votes": 4678
+              },
+              {
+                "Name": "JACOB WOO HO LEE",
+                "Party": "Non Partisan",
+                "Votes": 1095
+              },
+              {
+                "Name": "SHARON QUIRK-SILVA",
+                "Party": "Democratic",
+                "Votes": 6781
+              }
+            ]
+          },
+          {
+            "Title": "MEMBER OF THE STATE ASSEMBLY, 69th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "JOSH LOWENTHAL",
+                "Party": "Democratic",
+                "Votes": 54602
+              },
+              {
+                "Name": "JOSHUA RODRIGUEZ",
+                "Party": "Republican",
+                "Votes": 25649
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Presidential Preference",
+        "Contests": [
+          {
+            "Title": "PRESIDENTIAL CANDIDATE PREFERENCE - GREEN",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "JILL STEIN",
+                "Party": "Green",
+                "Votes": 3398
+              }
+            ]
+          },
+          {
+            "Title": "PRESIDENTIAL PREFERENCE - AMERICAN INDEPENDENT",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "JAMES BRADLEY",
+                "Party": "American Independent",
+                "Votes": 12321
+              }
+            ]
+          },
+          {
+            "Title": "PRESIDENTIAL PREFERENCE - DEMOCRATIC",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ARMANDO \"MANDO\" PEREZ-SERRATO",
+                "Party": "Democratic",
+                "Votes": 19905
+              },
+              {
+                "Name": "DEAN PHILLIPS",
+                "Party": "Democratic",
+                "Votes": 25156
+              },
+              {
+                "Name": "EBAN CAMBRIDGE",
+                "Party": "Democratic",
+                "Votes": 3979
+              },
+              {
+                "Name": "GABRIEL CORNEJO",
+                "Party": "Democratic",
+                "Votes": 19746
+              },
+              {
+                "Name": "JOSEPH R BIDEN JR",
+                "Party": "Democratic",
+                "Votes": 732770
+              },
+              {
+                "Name": "MARIANNE WILLIAMSON",
+                "Party": "Democratic",
+                "Votes": 45270
+              },
+              {
+                "Name": "PRESIDENT R BODDIE",
+                "Party": "Democratic",
+                "Votes": 6204
+              },
+              {
+                "Name": "STEPHEN P LYONS",
+                "Party": "Democratic",
+                "Votes": 8403
+              }
+            ]
+          },
+          {
+            "Title": "PRESIDENTIAL PREFERENCE - LIBERTARIAN",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "CHARLES BALLAY",
+                "Party": "Libertarian",
+                "Votes": 4620
+              }
+            ]
+          },
+          {
+            "Title": "PRESIDENTIAL PREFERENCE - PEACE AND FREEDOM",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "CLAUDIA DE LA CRUZ",
+                "Party": "Peace and Freedom",
+                "Votes": 1845
+              },
+              {
+                "Name": "CORNEL WEST",
+                "Party": "Peace and Freedom",
+                "Votes": 1527
+              },
+              {
+                "Name": "JASMINE SHERMAN",
+                "Party": "Peace and Freedom",
+                "Votes": 480
+              }
+            ]
+          },
+          {
+            "Title": "PRESIDENTIAL PREFERENCE - REPUBLICAN",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ASA HUTCHINSON",
+                "Party": "Republican",
+                "Votes": 698
+              },
+              {
+                "Name": "CHRIS CHRISTIE",
+                "Party": "Republican",
+                "Votes": 4286
+              },
+              {
+                "Name": "DAVID STUCKENBERG",
+                "Party": "Republican",
+                "Votes": 1039
+              },
+              {
+                "Name": "DONALD J. TRUMP",
+                "Party": "Republican",
+                "Votes": 299942
+              },
+              {
+                "Name": "NIKKI HALEY",
+                "Party": "Republican",
+                "Votes": 72700
+              },
+              {
+                "Name": "RACHEL SWIFT",
+                "Party": "Republican",
+                "Votes": 1208
+              },
+              {
+                "Name": "RON DESANTIS",
+                "Party": "Republican",
+                "Votes": 6238
+              },
+              {
+                "Name": "RYAN L BINKLEY",
+                "Party": "Republican",
+                "Votes": 836
+              },
+              {
+                "Name": "VIVEK RAMASWAMY",
+                "Party": "Republican",
+                "Votes": 2042
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Schools",
+        "Contests": [
+          {
+            "Title": "COMPTON UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area C",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "MICAH ALI",
+                "Party": "Non Partisan",
+                "Votes": 1194
+              },
+              {
+                "Name": "OMAR C. SPRY",
+                "Party": "Non Partisan",
+                "Votes": 545
+              }
+            ]
+          },
+          {
+            "Title": "COMPTON UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area D",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "CHARLES DAVIS",
+                "Party": "Non Partisan",
+                "Votes": 718
+              },
+              {
+                "Name": "MICHAEL DONNELL HOOPER JR.",
+                "Party": "Non Partisan",
+                "Votes": 735
+              }
+            ]
+          },
+          {
+            "Title": "CULVER CITY UNIFIED SCHOOL DISTRICT SPECIAL ELECTION - MEASURE E",
+            "Type": "Measure",
+            "AdditionalText": "",
+            "MeasureText": "To upgrade neighborhood schools with locally-controlled funding; improve classrooms/instructional technology for college/career readiness; fix leaky roofs, crumbling ceilings and aging, deteriorating electrical, plumbing, fire safety and security systems; repair, construct, and acquire classrooms, labs, facilities, sites, equipment; shall Culver City Unified School District's measure authorizing $358,000,000 in bonds at legal rates be adopted, levying 6¢ per $100 of assessed value, raising $22,000,000 annually while bonds are outstanding, with independent, public oversight/audits? Supporters: CC Ed Foundation; Principal Casey Chabola; fmr PTA Pres. Rebecca Anderson; Cnclmn Dan O'Brien; 26-yr CCUSD teacher Tony Spano Opponents: Crystal Alexander, Fmr CC Treas; Ron Ostrin, Atty; Anne Allaire, Fmr Brd Mem; Rosalind LaBriola; Carolyn Libuser, SaveCCUSD",
+            "MeasurePassRate": "55% of votes cast",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "YES",
+                "Party": "Non Partisan",
+                "Votes": 7287
+              },
+              {
+                "Name": "NO",
+                "Party": "Non Partisan",
+                "Votes": 4474
+              }
+            ]
+          },
+          {
+            "Title": "GARVEY SCHOOL DISTRICT SPECIAL ELECTION - MEASURE G",
+            "Type": "Measure",
+            "AdditionalText": "",
+            "MeasureText": "To upgrade Garvey schools, repair leaky roofs, modernize aging classrooms/bathrooms/playgrounds/outdoor spaces, improve access to modern technology, replace deteriorating plumbing/water/sewer systems, update electrical/lighting systems, provide heating/air-conditioning, make health, safety, security improvements, shall Garvey School District's measure be adopted authorizing $60,000,000 of bonds at legal interest rates, levying approximately $30 per $100,000 assessed value generating $3,500,000 annually for bonds through maturity, with annual audits and citizens' oversight, and no money for salaries? Supporters: Bobbi Bruesch; Maureen Chin; Bulmaro Magallon; Vinh T. Ngo; Heang Phan Opponents: California Taxpayers Action Network, G. Rick Marshall, CFO",
+            "MeasurePassRate": "55% of votes cast",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "YES",
+                "Party": "Non Partisan",
+                "Votes": 2322
+              },
+              {
+                "Name": "NO",
+                "Party": "Non Partisan",
+                "Votes": 1444
+              }
+            ]
+          },
+          {
+            "Title": "GLENDALE COMMUNITY COLLEGE DISTRICT Member, Board of Trustees, Trustee Area No. 1",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "DESIRÉE P RABINOV",
+                "Party": "Non Partisan",
+                "Votes": 5260
+              },
+              {
+                "Name": "HARRY LEON",
+                "Party": "Non Partisan",
+                "Votes": 4953
+              }
+            ]
+          },
+          {
+            "Title": "GLENDALE COMMUNITY COLLEGE DISTRICT Member, Board of Trustees, Trustee Area No. 5",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ARMINE POGOSYAN",
+                "Party": "Non Partisan",
+                "Votes": 1652
+              },
+              {
+                "Name": "SEVAN BENLIAN",
+                "Party": "Non Partisan",
+                "Votes": 3178
+              }
+            ]
+          },
+          {
+            "Title": "GLENDALE UNIFIED SCHOOL DISTRICT Member, Board of Education, Trustee Area A",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "JORDAN HENRY",
+                "Party": "Non Partisan",
+                "Votes": 4246
+              },
+              {
+                "Name": "SHANT KEVORKIAN",
+                "Party": "Non Partisan",
+                "Votes": 1013
+              },
+              {
+                "Name": "TELLY TSE",
+                "Party": "Non Partisan",
+                "Votes": 6914
+              }
+            ]
+          },
+          {
+            "Title": "GLENDALE UNIFIED SCHOOL DISTRICT Member, Board of Education, Trustee Area E",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ANETA KRPEKYAN",
+                "Party": "Non Partisan",
+                "Votes": 2725
+              },
+              {
+                "Name": "NEDA FARID",
+                "Party": "Non Partisan",
+                "Votes": 2923
+              }
+            ]
+          },
+          {
+            "Title": "LONG BEACH UNIFIED SCHOOL DISTRICT Governing Board Member, District 2",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ERIK MILLER",
+                "Party": "Non Partisan",
+                "Votes": 7519
+              },
+              {
+                "Name": "JERLENE L. TATUM",
+                "Party": "Non Partisan",
+                "Votes": 2782
+              }
+            ]
+          },
+          {
+            "Title": "LOS ANGELES UNIFIED SCHOOL DISTRICT Member of the Board of Education, District 1",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "CHRISTIAN FLAGG",
+                "Party": "Non Partisan",
+                "Votes": 6552
+              },
+              {
+                "Name": "DEWAYNE DAVIS",
+                "Party": "Non Partisan",
+                "Votes": 13205
+              },
+              {
+                "Name": "DIDI L. WATTS",
+                "Party": "Non Partisan",
+                "Votes": 14384
+              },
+              {
+                "Name": "JOHN AARON BRASFIELD",
+                "Party": "Non Partisan",
+                "Votes": 3244
+              },
+              {
+                "Name": "KHALLID A. AL-ALIM",
+                "Party": "Non Partisan",
+                "Votes": 16307
+              },
+              {
+                "Name": "RINA TAMBOR",
+                "Party": "Non Partisan",
+                "Votes": 6423
+              },
+              {
+                "Name": "SHERLETT HENDY NEWBILL",
+                "Party": "Non Partisan",
+                "Votes": 20850
+              }
+            ]
+          },
+          {
+            "Title": "LOS ANGELES UNIFIED SCHOOL DISTRICT Member of the Board of Education, District 3",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ANDREAS FARMAKALIDIS",
+                "Party": "Non Partisan",
+                "Votes": 7111
+              },
+              {
+                "Name": "DAN CHANG",
+                "Party": "Non Partisan",
+                "Votes": 32910
+              },
+              {
+                "Name": "ELIZABETH BADGER",
+                "Party": "Non Partisan",
+                "Votes": 9246
+              },
+              {
+                "Name": "RAQUEL VILLALTA",
+                "Party": "Non Partisan",
+                "Votes": 13584
+              },
+              {
+                "Name": "SCOTT MARK SCHMERELSON",
+                "Party": "Non Partisan",
+                "Votes": 50549
+              }
+            ]
+          },
+          {
+            "Title": "LOS ANGELES UNIFIED SCHOOL DISTRICT Member of the Board of Education, District 5",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "FIDENCIO GALLARDO",
+                "Party": "Non Partisan",
+                "Votes": 16013
+              },
+              {
+                "Name": "GRACIELA \"GRACE\" ORTIZ",
+                "Party": "Non Partisan",
+                "Votes": 18748
+              },
+              {
+                "Name": "KARLA GRIEGO",
+                "Party": "Non Partisan",
+                "Votes": 23963
+              },
+              {
+                "Name": "VICTORIO R. GUTIERREZ",
+                "Party": "Non Partisan",
+                "Votes": 6485
+              }
+            ]
+          },
+          {
+            "Title": "LOS ANGELES UNIFIED SCHOOL DISTRICT Member of the Board of Education, District 7",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "LYDIA A. GUTIÉRREZ",
+                "Party": "Non Partisan",
+                "Votes": 26971
+              },
+              {
+                "Name": "TANYA ORTIZ FRANKLIN",
+                "Party": "Non Partisan",
+                "Votes": 34245
+              }
+            ]
+          },
+          {
+            "Title": "MANHATTAN BEACH UNIFIED SCHOOL DISTRICT SPECIAL PARCEL TAX ELECTION - MEASURE MB",
+            "Type": "Measure",
+            "AdditionalText": "",
+            "MeasureText": "To maintain quality education without increasing taxes, keep Manhattan Beach schools among California's best; protect quality math, science, technology, reading and writing programs; attract/ retain high quality teachers; and prepare students for college/ careers, shall Manhattan Beach Unified School District's measure be adopted renewing the expiring $225 education parcel tax at the current rate for 6 years, providing $2,500,000 annually, with senior exemptions, requiring public disclosure of spending, independent oversight and all funds staying local? Supporters: Joe Franklin, Mayor; Tiffany Barbara, Parent; Karen Komatinsky, Fmr Sch Board; David Lesser, Council; Tracey Windes, Educator Opponents: California Taxpayers Action Network, G. Rick Marshall, CFO",
+            "MeasurePassRate": "2/3 of votes cast",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "YES",
+                "Party": "Non Partisan",
+                "Votes": 8425
+              },
+              {
+                "Name": "NO",
+                "Party": "Non Partisan",
+                "Votes": 4019
+              }
+            ]
+          },
+          {
+            "Title": "PASADENA AREA COMMUNITY COLLEGE DISTRICT Governing Board Member, Trustee Area No. 2",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "JAMES ARAGON",
+                "Party": "Non Partisan",
+                "Votes": 11751
+              },
+              {
+                "Name": "KEVIN D. STROTZ",
+                "Party": "Non Partisan",
+                "Votes": 3184
+              }
+            ]
+          },
+          {
+            "Title": "PASADENA AREA COMMUNITY COLLEGE DISTRICT Governing Board Member, Trustee Area No. 6",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "JOHN QUINTANILLA",
+                "Party": "Non Partisan",
+                "Votes": 2647
+              },
+              {
+                "Name": "RYAN LIU",
+                "Party": "Non Partisan",
+                "Votes": 3322
+              }
+            ]
+          },
+          {
+            "Title": "SOUTH WHITTIER SCHOOL DISTRICT SPECIAL ELECTION - MEASURE K",
+            "Type": "Measure",
+            "AdditionalText": "",
+            "MeasureText": "To improve the quality of education; make health, safety and security improvements; repair/ replace leaky roofs; modernize outdated classrooms, restrooms and school facilities; and replace deteriorating plumbing/ sewer systems and heating and air-conditioning systems; shall South Whittier School District's measure be adopted authorizing $37,500,000 of bonds with legal rates, raising on average $2,200,000 per year until repaid, at approximately $30.00 per $100,000 assessed value, with annual audits, independent oversight, no money for salaries, and all money staying local? Supporters: Jeff Baird, Ret Attny; Cristina Cruz, Amse Prk Vndr; Otto Prillwitz, Bsn Ownr; Alejandra Sanchez, Prnt; Sylvia Macias, SWSD Brd Pres Opponents: California Taxpayers Action Network, G. Rick Marshall, CFO",
+            "MeasurePassRate": "55% of votes cast",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "YES",
+                "Party": "Non Partisan",
+                "Votes": 1440
+              },
+              {
+                "Name": "NO",
+                "Party": "Non Partisan",
+                "Votes": 1026
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "State Measure",
+        "Contests": [
+          {
+            "Title": "STATE MEASURE 1",
+            "Type": "Measure",
+            "AdditionalText": "",
+            "MeasureText": "AUTHORIZES $6.38 BILLION IN BONDS TO BUILD MENTAL HEALTH TREATMENT FACILITIES FOR THOSE WITH MENTAL HEALTH AND SUBSTANCE USE CHALLENGES; PROVIDES HOUSING FOR THE HOMELESS. LEGISLATIVE STATUTE. Amends Mental Health Services Act to provide additional behavioral health services. Fiscal Impact: Shift roughly $140 million annually of existing tax revenue for mental health, drug, and alcohol treatment from counties to the state. Increased state bond repayment costs of $310 million annually for 30 years. Supporters: California Professional Firefighters; CA Assoc. of Veteran Service Agencies; National Alliance on Mental Illness - CA Opponents: Mental Health America of California; Howard Jarvis Taxpayers Association; CalVoices",
+            "MeasurePassRate": "Majority of votes cast",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "YES",
+                "Party": "Non Partisan",
+                "Votes": 805670
+              },
+              {
+                "Name": "NO",
+                "Party": "Non Partisan",
+                "Votes": 685361
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "State Senator",
+        "Contests": [
+          {
+            "Title": "STATE SENATOR, 23rd District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "BLANCA AZUCENA GOMEZ",
+                "Party": "Democratic",
+                "Votes": 10439
+              },
+              {
+                "Name": "JAMES \"DJ\" HAMBURGER",
+                "Party": "Republican",
+                "Votes": 25723
+              },
+              {
+                "Name": "KIPP MUELLER",
+                "Party": "Democratic",
+                "Votes": 36672
+              },
+              {
+                "Name": "OLLIE M. MCCAULLEY",
+                "Party": "Democratic",
+                "Votes": 5750
+              },
+              {
+                "Name": "SUZETTE MARTINEZ VALLADARES",
+                "Party": "Republican",
+                "Votes": 40875
+              }
+            ]
+          },
+          {
+            "Title": "STATE SENATOR, 25th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ELIZABETH WONG AHLERS",
+                "Party": "Republican",
+                "Votes": 63059
+              },
+              {
+                "Name": "SANDRA ARMENTA",
+                "Party": "Democratic",
+                "Votes": 18029
+              },
+              {
+                "Name": "SASHA RENÉE PÉREZ",
+                "Party": "Democratic",
+                "Votes": 64449
+              },
+              {
+                "Name": "TEDDY CHOI",
+                "Party": "Democratic",
+                "Votes": 8454
+              },
+              {
+                "Name": "YVONNE YIU",
+                "Party": "Democratic",
+                "Votes": 33767
+              }
+            ]
+          },
+          {
+            "Title": "STATE SENATOR, 27th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "HENRY STERN",
+                "Party": "Democratic",
+                "Votes": 69207
+              },
+              {
+                "Name": "LUCIE VOLOTZKY",
+                "Party": "Republican",
+                "Votes": 42453
+              },
+              {
+                "Name": "SUSAN A. COLLINS",
+                "Party": "Democratic",
+                "Votes": 26151
+              }
+            ]
+          },
+          {
+            "Title": "STATE SENATOR, 33rd District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "LENA  A. GONZALEZ",
+                "Party": "Democratic",
+                "Votes": 85913
+              },
+              {
+                "Name": "MARIO PAZ",
+                "Party": "Republican",
+                "Votes": 21383
+              },
+              {
+                "Name": "SHARIFAH A. HARDIE",
+                "Party": "Republican",
+                "Votes": 17994
+              }
+            ]
+          },
+          {
+            "Title": "STATE SENATOR, 35th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ALBERT ROBLES",
+                "Party": "Democratic",
+                "Votes": 8231
+              },
+              {
+                "Name": "ALEX MONTEIRO",
+                "Party": "Democratic",
+                "Votes": 5821
+              },
+              {
+                "Name": "JAMES ARLANDUS SPENCER",
+                "Party": "Republican",
+                "Votes": 18109
+              },
+              {
+                "Name": "JENNIFER TRICHELLE-MARIE WILLIAMS",
+                "Party": "Democratic",
+                "Votes": 5204
+              },
+              {
+                "Name": "LAMAR LYONS",
+                "Party": "Democratic",
+                "Votes": 3939
+              },
+              {
+                "Name": "LAURA RICHARDSON",
+                "Party": "Democratic",
+                "Votes": 26828
+              },
+              {
+                "Name": "MICHELLE CHAMBERS",
+                "Party": "Democratic",
+                "Votes": 23569
+              },
+              {
+                "Name": "NILO VEGA MICHELIN",
+                "Party": "Democratic",
+                "Votes": 4600
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "U.S. Representative",
+        "Contests": [
+          {
+            "Title": "UNITED STATES REPRESENTATIVE, 23rd District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "DEREK MARSHALL",
+                "Party": "Democratic",
+                "Votes": 860
+              },
+              {
+                "Name": "JAY OBERNOLTE",
+                "Party": "Republican",
+                "Votes": 1083
+              }
+            ]
+          },
+          {
+            "Title": "UNITED STATES REPRESENTATIVE, 26th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "BRUCE BOYER",
+                "Party": "Republican",
+                "Votes": 1110
+              },
+              {
+                "Name": "CHRIS ANSTEAD",
+                "Party": "Democratic",
+                "Votes": 1156
+              },
+              {
+                "Name": "JULIA BROWNLEY",
+                "Party": "Democratic",
+                "Votes": 7791
+              },
+              {
+                "Name": "MICHAEL KOSLOW",
+                "Party": "Republican",
+                "Votes": 4873
+              }
+            ]
+          },
+          {
+            "Title": "UNITED STATES REPRESENTATIVE, 27th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "GEORGE WHITESIDES",
+                "Party": "Democratic",
+                "Votes": 44265
+              },
+              {
+                "Name": "MIKE GARCIA",
+                "Party": "Republican",
+                "Votes": 74035
+              },
+              {
+                "Name": "STEVE HILL",
+                "Party": "Democratic",
+                "Votes": 16468
+              }
+            ]
+          },
+          {
+            "Title": "UNITED STATES REPRESENTATIVE, 28th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "APRIL A. VERLATO",
+                "Party": "Republican",
+                "Votes": 40277
+              },
+              {
+                "Name": "JOSE CASTANEDA",
+                "Party": "Libertarian",
+                "Votes": 2754
+              },
+              {
+                "Name": "JUDY CHU",
+                "Party": "Democratic",
+                "Votes": 91178
+              },
+              {
+                "Name": "WILLIAM PATTERSON",
+                "Party": "Peace and Freedom",
+                "Votes": 3129
+              }
+            ]
+          },
+          {
+            "Title": "UNITED STATES REPRESENTATIVE, 29th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ANGÉLICA MARÍA DUEÑAS",
+                "Party": "Democratic",
+                "Votes": 19738
+              },
+              {
+                "Name": "BENITO BENNY BERNAL",
+                "Party": "Republican",
+                "Votes": 21316
+              },
+              {
+                "Name": "LUZ MARIA RIVAS",
+                "Party": "Democratic",
+                "Votes": 39935
+              }
+            ]
+          },
+          {
+            "Title": "UNITED STATES REPRESENTATIVE, 30th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ALEX BALEKIAN",
+                "Party": "Republican",
+                "Votes": 26745
+              },
+              {
+                "Name": "ANTHONY PORTANTINO",
+                "Party": "Democratic",
+                "Votes": 20392
+              },
+              {
+                "Name": "BEN SAVAGE",
+                "Party": "Democratic",
+                "Votes": 6115
+              },
+              {
+                "Name": "COURTNEY SIMONE NAJERA",
+                "Party": "Democratic",
+                "Votes": 1157
+              },
+              {
+                "Name": "EMILIO MARTINEZ",
+                "Party": "Republican",
+                "Votes": 6736
+              },
+              {
+                "Name": "FRANCESCO ARREAGA",
+                "Party": "Democratic",
+                "Votes": 529
+              },
+              {
+                "Name": "G \"MAEBE\" PUDLO",
+                "Party": "Democratic",
+                "Votes": 15702
+              },
+              {
+                "Name": "JIRAIR RATEVOSIAN",
+                "Party": "Democratic",
+                "Votes": 2868
+              },
+              {
+                "Name": "JOSH BOCANEGRA",
+                "Party": "Non Partisan",
+                "Votes": 775
+              },
+              {
+                "Name": "LAURA FRIEDMAN",
+                "Party": "Democratic",
+                "Votes": 46176
+              },
+              {
+                "Name": "MIKE FEUER",
+                "Party": "Democratic",
+                "Votes": 18833
+              },
+              {
+                "Name": "NICK MELVOIN",
+                "Party": "Democratic",
+                "Votes": 4115
+              },
+              {
+                "Name": "SAL GENOVESE",
+                "Party": "Democratic",
+                "Votes": 439
+              },
+              {
+                "Name": "SEPI SHYNE",
+                "Party": "Democratic",
+                "Votes": 2105
+              },
+              {
+                "Name": "STEVE ANDRAÉ DUNWOODY",
+                "Party": "Democratic",
+                "Votes": 724
+              }
+            ]
+          },
+          {
+            "Title": "UNITED STATES REPRESENTATIVE, 31st District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "BOB J. ARCHULETA",
+                "Party": "Democratic",
+                "Votes": 10128
+              },
+              {
+                "Name": "DANIEL JOSE BOCIC MARTINEZ",
+                "Party": "Republican",
+                "Votes": 19412
+              },
+              {
+                "Name": "ERSKINE LEVI",
+                "Party": "Non Partisan",
+                "Votes": 1162
+              },
+              {
+                "Name": "GIL CISNEROS",
+                "Party": "Democratic",
+                "Votes": 23821
+              },
+              {
+                "Name": "GREG HAFIF",
+                "Party": "Democratic",
+                "Votes": 4898
+              },
+              {
+                "Name": "KURT JOSE",
+                "Party": "Democratic",
+                "Votes": 1405
+              },
+              {
+                "Name": "MARIE MANVEL",
+                "Party": "Non Partisan",
+                "Votes": 532
+              },
+              {
+                "Name": "MARY ANN LUTZ",
+                "Party": "Democratic",
+                "Votes": 6606
+              },
+              {
+                "Name": "PEDRO ANTONIO CASAS",
+                "Party": "Republican",
+                "Votes": 17023
+              },
+              {
+                "Name": "SUSAN RUBIO",
+                "Party": "Democratic",
+                "Votes": 15965
+              }
+            ]
+          },
+          {
+            "Title": "UNITED STATES REPRESENTATIVE, 32nd District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "BRAD SHERMAN",
+                "Party": "Democratic",
+                "Votes": 91462
+              },
+              {
+                "Name": "CHRISTOPHER A.  AHUJA",
+                "Party": "Democratic",
+                "Votes": 12563
+              },
+              {
+                "Name": "DAVE ABBITT",
+                "Party": "Democratic",
+                "Votes": 1648
+              },
+              {
+                "Name": "DOUGLAS SMITH",
+                "Party": "Democratic",
+                "Votes": 2484
+              },
+              {
+                "Name": "JAMES SHUSTER",
+                "Party": "Republican",
+                "Votes": 16411
+              },
+              {
+                "Name": "LARRY THOMPSON",
+                "Party": "Republican",
+                "Votes": 29709
+              },
+              {
+                "Name": "TREVOR LUCAS WITT",
+                "Party": "Democratic",
+                "Votes": 1621
+              }
+            ]
+          },
+          {
+            "Title": "UNITED STATES REPRESENTATIVE, 34th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "AARON REVELES",
+                "Party": "Peace and Freedom",
+                "Votes": 3196
+              },
+              {
+                "Name": "CALVIN LEE",
+                "Party": "Republican",
+                "Votes": 11439
+              },
+              {
+                "Name": "DAVID KIM",
+                "Party": "Democratic",
+                "Votes": 22588
+              },
+              {
+                "Name": "DAVID M. FERRELL",
+                "Party": "Democratic",
+                "Votes": 2285
+              },
+              {
+                "Name": "JIMMY GOMEZ",
+                "Party": "Democratic",
+                "Votes": 41423
+              }
+            ]
+          },
+          {
+            "Title": "UNITED STATES REPRESENTATIVE, 35th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "MELISSA MAY",
+                "Party": "Democratic",
+                "Votes": 1881
+              },
+              {
+                "Name": "MIKE CARGILE",
+                "Party": "Republican",
+                "Votes": 4126
+              },
+              {
+                "Name": "NORMA J. TORRES",
+                "Party": "Democratic",
+                "Votes": 7981
+              },
+              {
+                "Name": "VIJAL SUTHAR",
+                "Party": "Republican",
+                "Votes": 650
+              }
+            ]
+          },
+          {
+            "Title": "UNITED STATES REPRESENTATIVE, 36th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ARIANA HAKAMI",
+                "Party": "Republican",
+                "Votes": 25718
+              },
+              {
+                "Name": "CLAIRE RAGGE ANDERSON",
+                "Party": "Non Partisan",
+                "Votes": 4467
+              },
+              {
+                "Name": "MELISSA TOOMIM",
+                "Party": "Republican",
+                "Votes": 27319
+              },
+              {
+                "Name": "TED W. LIEU",
+                "Party": "Democratic",
+                "Votes": 125240
+              }
+            ]
+          },
+          {
+            "Title": "UNITED STATES REPRESENTATIVE, 37th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ADAM J. CARMICHAEL",
+                "Party": "Democratic",
+                "Votes": 7472
+              },
+              {
+                "Name": "JOHN THOMPSON PARKER",
+                "Party": "Peace and Freedom",
+                "Votes": 7252
+              },
+              {
+                "Name": "JUAN REY",
+                "Party": "Non Partisan",
+                "Votes": 8861
+              },
+              {
+                "Name": "SYDNEY KAMLAGER-DOVE",
+                "Party": "Democratic",
+                "Votes": 62177
+              }
+            ]
+          },
+          {
+            "Title": "UNITED STATES REPRESENTATIVE, 38th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ERIC J. CHING",
+                "Party": "Republican",
+                "Votes": 24148
+              },
+              {
+                "Name": "JOHN SAREGA",
+                "Party": "Republican",
+                "Votes": 12049
+              },
+              {
+                "Name": "LINDA T. SÁNCHEZ",
+                "Party": "Democratic",
+                "Votes": 57206
+              },
+              {
+                "Name": "ROBERT ZHANG OCHOA",
+                "Party": "Republican",
+                "Votes": 7185
+              }
+            ]
+          },
+          {
+            "Title": "UNITED STATES REPRESENTATIVE, 42nd District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "J. NICOLE LOPEZ",
+                "Party": "Democratic",
+                "Votes": 8707
+              },
+              {
+                "Name": "JOAQUÍN BELTRÁN",
+                "Party": "Democratic",
+                "Votes": 6480
+              },
+              {
+                "Name": "JOHN BRISCOE",
+                "Party": "Republican",
+                "Votes": 30486
+              },
+              {
+                "Name": "ROBERT GARCIA",
+                "Party": "Democratic",
+                "Votes": 49732
+              }
+            ]
+          },
+          {
+            "Title": "UNITED STATES REPRESENTATIVE, 43rd District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "CHRIS B. WIGGINS",
+                "Party": "Democratic",
+                "Votes": 4971
+              },
+              {
+                "Name": "DAVID KNIGHT",
+                "Party": "Republican",
+                "Votes": 5611
+              },
+              {
+                "Name": "GREGORY EDWARD JACKSON CHEADLE",
+                "Party": "Democratic",
+                "Votes": 2060
+              },
+              {
+                "Name": "MAXINE WATERS",
+                "Party": "Democratic",
+                "Votes": 54447
+              },
+              {
+                "Name": "STEVE WILLIAMS",
+                "Party": "Republican",
+                "Votes": 10852
+              }
+            ]
+          },
+          {
+            "Title": "UNITED STATES REPRESENTATIVE, 44th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "NANETTE DIAZ BARRAGÁN",
+                "Party": "Democratic",
+                "Votes": 63402
+              },
+              {
+                "Name": "ROGER GROH",
+                "Party": "Republican",
+                "Votes": 26083
+              }
+            ]
+          },
+          {
+            "Title": "UNITED STATES REPRESENTATIVE, 45th District",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ADITYA PAI",
+                "Party": "Democratic",
+                "Votes": 1368
+              },
+              {
+                "Name": "CHEYENNE HUNT",
+                "Party": "Democratic",
+                "Votes": 1412
+              },
+              {
+                "Name": "DEREK TRAN",
+                "Party": "Democratic",
+                "Votes": 2339
+              },
+              {
+                "Name": "KIM BERNICE NGUYEN-PENALOZA",
+                "Party": "Democratic",
+                "Votes": 2155
+              },
+              {
+                "Name": "MICHELLE STEEL",
+                "Party": "Republican",
+                "Votes": 6147
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "United States Senator",
+        "Contests": [
+          {
+            "Title": "UNITED STATES SENATOR - Full Term",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ADAM B. SCHIFF",
+                "Party": "Democratic",
+                "Votes": 559876
+              },
+              {
+                "Name": "BARBARA LEE",
+                "Party": "Democratic",
+                "Votes": 167704
+              },
+              {
+                "Name": "CHRISTINA PASCUCCI",
+                "Party": "Democratic",
+                "Votes": 21445
+              },
+              {
+                "Name": "DAVID PETERSON",
+                "Party": "Democratic",
+                "Votes": 4428
+              },
+              {
+                "Name": "DENICE GARY-PANDOL",
+                "Party": "Republican",
+                "Votes": 5183
+              },
+              {
+                "Name": "DON J. GRUNDMANN",
+                "Party": "Non Partisan",
+                "Votes": 1031
+              },
+              {
+                "Name": "DOUGLAS H. PIERCE",
+                "Party": "Democratic",
+                "Votes": 5552
+              },
+              {
+                "Name": "ERIC EARLY",
+                "Party": "Republican",
+                "Votes": 43497
+              },
+              {
+                "Name": "FORREST JONES",
+                "Party": "American Independent",
+                "Votes": 2273
+              },
+              {
+                "Name": "GAIL LIGHTFOOT",
+                "Party": "Libertarian",
+                "Votes": 5216
+              },
+              {
+                "Name": "HARMESH KUMAR",
+                "Party": "Democratic",
+                "Votes": 4736
+              },
+              {
+                "Name": "JAMES \"JIM\" MACAULEY",
+                "Party": "Republican",
+                "Votes": 3535
+              },
+              {
+                "Name": "JAMES BRADLEY",
+                "Party": "Republican",
+                "Votes": 13548
+              },
+              {
+                "Name": "JOHN ROSE",
+                "Party": "Democratic",
+                "Votes": 3794
+              },
+              {
+                "Name": "JONATHAN REISS",
+                "Party": "Republican",
+                "Votes": 11662
+              },
+              {
+                "Name": "KATIE PORTER",
+                "Party": "Democratic",
+                "Votes": 236577
+              },
+              {
+                "Name": "LAURA GARZA",
+                "Party": "Non Partisan",
+                "Votes": 9634
+              },
+              {
+                "Name": "MAJOR SINGH",
+                "Party": "Non Partisan",
+                "Votes": 3191
+              },
+              {
+                "Name": "MARK RUZON",
+                "Party": "Non Partisan",
+                "Votes": 2701
+              },
+              {
+                "Name": "MARTIN VEPRAUSKAS",
+                "Party": "Republican",
+                "Votes": 2644
+              },
+              {
+                "Name": "PERRY POUND",
+                "Party": "Democratic",
+                "Votes": 2734
+              },
+              {
+                "Name": "RAJI RAB",
+                "Party": "Democratic",
+                "Votes": 3702
+              },
+              {
+                "Name": "SARAH SUN LIEW",
+                "Party": "Republican",
+                "Votes": 7006
+              },
+              {
+                "Name": "SEPI GILANI",
+                "Party": "Democratic",
+                "Votes": 8183
+              },
+              {
+                "Name": "SHARLETA BASSETT",
+                "Party": "Republican",
+                "Votes": 7379
+              },
+              {
+                "Name": "STEFAN SIMCHOWITZ",
+                "Party": "Republican",
+                "Votes": 4535
+              },
+              {
+                "Name": "STEVE GARVEY",
+                "Party": "Republican",
+                "Votes": 369923
+              }
+            ]
+          },
+          {
+            "Title": "UNITED STATES SENATOR - Short Term (Unexpired term ending January 3, 2025)",
+            "Type": "Candidate",
+            "AdditionalText": "",
+            "MeasureText": "",
+            "MeasurePassRate": "",
+            "VoteFor": "",
+            "Candidates": [
+              {
+                "Name": "ADAM B. SCHIFF",
+                "Party": "Democratic",
+                "Votes": 535436
+              },
+              {
+                "Name": "BARBARA LEE",
+                "Party": "Democratic",
+                "Votes": 200303
+              },
+              {
+                "Name": "CHRISTINA PASCUCCI",
+                "Party": "Democratic",
+                "Votes": 35497
+              },
+              {
+                "Name": "ERIC EARLY",
+                "Party": "Republican",
+                "Votes": 77864
+              },
+              {
+                "Name": "KATIE PORTER",
+                "Party": "Democratic",
+                "Votes": 278230
+              },
+              {
+                "Name": "SEPI GILANI",
+                "Party": "Democratic",
+                "Votes": 14851
+              },
+              {
+                "Name": "STEVE GARVEY",
+                "Party": "Republican",
+                "Votes": 409955
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Timestamp": "2024-03-14T16:03:17.357"
+}
