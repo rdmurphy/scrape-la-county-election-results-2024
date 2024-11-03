@@ -7,14 +7,16 @@ def collect_votes(id, lookups):
     return [lookup[id]['Value'] for lookup in lookups]
 
 
-def prepare():
+def prepare(directory):
+    directory = Path(directory)
+
     # The file with all the election metadata
-    with open('primary/election_data.json') as infile:
+    with open(directory / 'election_data.json') as infile:
         contest_groups = load(infile)['Data']['ContestGroups']
         contest_groups = sorted(contest_groups, key=lambda x: x['Order'])
     
     # The directory where the counter data is stored
-    counter_data_dir = Path('primary/counter_data')
+    counter_data_dir = directory / 'counter_data'
     counter_data_files = sorted(counter_data_dir.glob('*.json'))
 
     lookups = []
@@ -106,9 +108,15 @@ def prepare():
                 'candidates': candidates_output,
             })
 
-    with open('primary/timeframes.json', 'w') as outfile:
+    with open(directory / 'timeframes.json', 'w') as outfile:
         dump({'dates': dates, 'contests': output}, outfile, indent=2)
 
 
 if __name__ == '__main__':
-    prepare()
+    import sys
+    if len(sys.argv) != 2:
+        print("Usage: python prepare_timeframes.py <directory>")
+        sys.exit(1)
+    
+    directory = sys.argv[1]
+    prepare(directory)
