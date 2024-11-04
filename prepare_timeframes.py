@@ -7,11 +7,8 @@ def normalize_description(s):
         description, positions = s.split("Supporters:")
         supporters, opponents = positions.split("Opponents:")
 
-        supporters = supporters.strip().split("; ")
-        opponents = opponents.strip().split("; ")
-
-        supporters = [] if "None submitted." in supporters else supporters
-        opponents = [] if "None submitted." in opponents else opponents
+        supporters = supporters.strip().rstrip(".").split("; ")
+        opponents = opponents.strip().rstrip(".").split("; ")
 
         return description.strip(), supporters, opponents
     
