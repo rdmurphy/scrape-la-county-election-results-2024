@@ -2,6 +2,44 @@ from json import dump, load
 from pathlib import Path
 
 
+def normalize_description(s):
+    if "Supporters:" in s:
+        description, positions = s.split("Supporters:")
+        supporters, opponents = positions.split("Opponents:")
+
+        supporters = supporters.strip().split("; ")
+        opponents = opponents.strip().split("; ")
+
+        supporters = [] if "None submitted." in supporters else supporters
+        opponents = [] if "None submitted." in opponents else opponents
+
+        return description.strip(), supporters, opponents
+    
+    return s, "", ""
+
+
+def normalize_number_vote_for(s):
+    if s == "":
+        return 1
+
+    if s.endswith("than two"):
+        return 2
+
+    if s.endswith("than three"):
+        return 3
+
+    if s.endswith("than four"):
+        return 4
+
+    if s.endswith("than five"):
+        return 5
+
+    if s.endswith("than seven"):
+        return 7
+
+    raise ValueError(f'Could not determine number of votes: "{s}"')
+
+
 def collect_votes(id, lookups):
     # Collect the votes for a given candidate
     return [lookup[id]['Value'] for lookup in lookups]
@@ -44,7 +82,9 @@ def prepare(directory):
             id = contest['ID']
             name = contest['Title']
             contest_type = contest['Type']
-            description = contest['MeasureText']
+            measure_text = contest['MeasureText']
+            description, supporters, opponents = normalize_description(measure_text)
+            measure_pass_rate = contest['MeasurePassRate']
             vote_for = contest['VoteFor']
             candidates = contest['Candidates']
 
@@ -72,7 +112,7 @@ def prepare(directory):
             for candidate in candidates_output:
                 for i, votes in enumerate(candidate['votes']):
                     if len(cumulative_totals) < i + 1:
-                        cumulative_totals.append(0)              
+                        cumulative_totals.append(0)
                     cumulative_totals[i] += votes
 
                 for i, change in enumerate(candidate['changes']):
@@ -102,7 +142,10 @@ def prepare(directory):
                 'type': contest_type,
                 'group': contest_group,
                 "description": description,
-                "vote_for": vote_for,
+                "supporters": supporters,
+                "opponents": opponents,
+                "measure_pass_rate": measure_pass_rate,
+                "vote_for": normalize_number_vote_for(vote_for),
                 "cumulative_totals": cumulative_totals,
                 "totals": totals,
                 'candidates': candidates_output,
