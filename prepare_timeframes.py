@@ -15,7 +15,7 @@ def normalize_description(s):
 
         return description.strip(), supporters, opponents
     
-    return s, "", ""
+    return s, None, None
 
 
 def normalize_number_vote_for(s):
@@ -89,11 +89,14 @@ def prepare(directory):
             candidates = contest['Candidates']
 
             candidates_output = []
+            contest_is_non_partisan = True
 
             for candidate in candidates:
                 candidate_id = candidate['ID']
                 candidate_name = candidate['Name']
                 party = candidate['Party']
+                if party != "Non Partisan":
+                    contest_is_non_partisan = False
                 votes = collect_votes(candidate_id, lookups)
                 adjusted_votes = [0] + votes
                 changes = [adjusted_votes[i] - adjusted_votes[i-1] for i in range(1, len(adjusted_votes))]
@@ -141,6 +144,7 @@ def prepare(directory):
                 'name': name,
                 'type': contest_type,
                 'group': contest_group,
+                'non_partisan': contest_is_non_partisan,
                 "description": description,
                 "supporters": supporters,
                 "opponents": opponents,
