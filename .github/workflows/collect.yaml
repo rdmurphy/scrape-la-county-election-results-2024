@@ -23,11 +23,12 @@ jobs:
         run: ./scripts/collect.sh ./general 4324
 
       - name: Get a timestamp
-        run: echo "timestamp=$(date -u +'%Y-%m-%dT%H:%M:%SZ')" >> $GITHUB_ENV
+        id: timestamp
+        run: echo "value=$(date -u +'%Y-%m-%dT%H:%M:%SZ')" >> $GITHUB_OUTPUT
 
       - name: Commit results.json to GitHub
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Latest results: ${{ env.timestamp }}"
+          commit_message: "Latest results: ${{ steps.timestamp.outputs.value }}"
           file_pattern: "*.json"
           skip_fetch: true
