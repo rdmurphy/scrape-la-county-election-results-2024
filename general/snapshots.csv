@@ -2,5 +2,5 @@ date,release,results_commit_sha,counter_commit_sha,notes
 2024-11-05,1,b03a5b0902bcb0b6feab6b77c255e2fc50ee52f4,b03a5b0902bcb0b6feab6b77c255e2fc50ee52f4,Early mail-in ballots
 2024-11-05,2,a639e283ffe67a263dc304aa414950fd1852fcbb,a639e283ffe67a263dc304aa414950fd1852fcbb,Early in-person ballots
 2024-11-05,3,13f4427556b4eb2cc2994343c8a06cfce32a1463,13f4427556b4eb2cc2994343c8a06cfce32a1463,More early mail-in ballots
-2024-11-05,4,,,Vote center ballots
+2024-11-05,4,ab4dd0de65bc6bb86b6e42b7ec0e662f720b7e15,fe2a64d23483f0452ad08a50e64a5026fdc98540,Vote center ballots
 
