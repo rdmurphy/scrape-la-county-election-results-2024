@@ -10,7 +10,7 @@
     "Primary": false,
     "Major": true,
     "VBM": false,
-    "Locked": false,
+    "Locked": true,
     "CandidateList": true,
     "ContestGroups": [
       {
