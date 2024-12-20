@@ -4139,7 +4139,7 @@
                 "ID": 24429,
                 "Name": "AISHA L. THOMPSON",
                 "Party": "Non Partisan",
-                "Winner": true,
+                "Winner": false,
                 "Votes": 0
               }
             ]
@@ -4160,14 +4160,14 @@
                 "ID": 24430,
                 "Name": "ANGELA ALLEN",
                 "Party": "Non Partisan",
-                "Winner": true,
+                "Winner": false,
                 "Votes": 0
               },
               {
                 "ID": 24431,
                 "Name": "TAYLOR R. BRYANT",
                 "Party": "Non Partisan",
-                "Winner": true,
+                "Winner": false,
                 "Votes": 0
               }
             ]
@@ -4188,7 +4188,7 @@
                 "ID": 24424,
                 "Name": "ELOY MORALES JR.",
                 "Party": "Non Partisan",
-                "Winner": true,
+                "Winner": false,
                 "Votes": 0
               }
             ]
@@ -4216,14 +4216,14 @@
                 "ID": 24428,
                 "Name": "CARLOS ZURITA",
                 "Party": "Non Partisan",
-                "Winner": true,
+                "Winner": false,
                 "Votes": 0
               },
               {
                 "ID": 24425,
                 "Name": "DIONNE FAULK",
                 "Party": "Non Partisan",
-                "Winner": true,
+                "Winner": false,
                 "Votes": 0
               },
               {
